@@ -1,0 +1,33 @@
+name: Update Sleeper League State
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run monitor
+        run: python monitor.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "Sleeper Monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add league_state.json
+          git diff --cached --quiet || git commit -m "Update Sleeper league state"
+          git push
