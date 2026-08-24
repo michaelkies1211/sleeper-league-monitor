@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:53:57.368990+00:00",
+  "generated_at": "2026-08-24T03:36:49.786957+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -406,7 +406,6 @@
         "10232",
         "11564",
         "11584",
-        "11603",
         "11631",
         "12508",
         "13268",
@@ -433,9 +432,9 @@
         "7564",
         "7547",
         "10232",
-        "0",
-        "7611",
-        "0"
+        "9484",
+        "7021",
+        "12508"
       ],
       "reserve": [],
       "taxi": [
@@ -500,6 +499,29 @@
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1787536219627,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "863233545689231360",
+      "transaction_id": "1397431825915260928",
+      "adds": null,
+      "consenter_ids": [
+        9
+      ],
+      "drops": {
+        "11603": 9
+      },
+      "roster_ids": [
+        9
+      ],
+      "status_updated": 1787536219627,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "trade",
