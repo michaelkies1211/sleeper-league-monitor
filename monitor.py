@@ -3,7 +3,6 @@ import urllib.request
 from datetime import datetime, timezone
 
 LEAGUE_ID = "1314660185330954240"
-
 BASE = "https://api.sleeper.app/v1"
 
 
@@ -18,19 +17,30 @@ def main():
     users = get_json(f"{BASE}/league/{LEAGUE_ID}/users")
     traded_picks = get_json(f"{BASE}/league/{LEAGUE_ID}/traded_picks")
 
-    current_week = league.get("settings", {}).get("leg", 1)
+    nfl_state = get_json(f"{BASE}/state/nfl")
+    current_week = nfl_state.get("week", 1)
 
-    try:
-        transactions = get_json(
-            f"{BASE}/league/{LEAGUE_ID}/transactions/{current_week}"
-        )
-    except Exception:
-        transactions = []
+    transactions = []
+
+    # Grab current week AND prior 2 weeks so recent drops don't disappear
+    for week in range(max(1, current_week - 2), current_week + 1):
+        try:
+            week_transactions = get_json(
+                f"{BASE}/league/{LEAGUE_ID}/transactions/{week}"
+            )
+
+            for tx in week_transactions:
+                tx["transaction_week"] = week
+
+            transactions.extend(week_transactions)
+
+        except Exception as e:
+            print(f"Could not fetch transactions for week {week}: {e}")
 
     users_by_id = {
         user["user_id"]: {
             "display_name": user.get("display_name"),
-            "team_name": (user.get("metadata") or {}).get("team_name")
+            "team_name": (user.get("metadata") or {}).get("team_name"),
         }
         for user in users
     }
@@ -63,7 +73,7 @@ def main():
     with open("league_state.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
 
-    print("Updated league_state.json")
+    print(f"Updated league_state.json with {len(transactions)} transactions")
 
 
 if __name__ == "__main__":
