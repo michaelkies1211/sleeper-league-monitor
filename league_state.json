@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T01:32:18.601641+00:00",
+  "generated_at": "2026-08-28T21:55:10.300662+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 3,
@@ -181,12 +181,6 @@
           "nfl_team": "LV"
         },
         {
-          "player_id": "11565",
-          "name": "J.J. McCarthy",
-          "position": "QB",
-          "nfl_team": "MIN"
-        },
-        {
           "player_id": "11566",
           "name": "Jayden Daniels",
           "position": "QB",
@@ -229,6 +223,18 @@
           "nfl_team": "HOU"
         },
         {
+          "player_id": "12487",
+          "name": "Terrance Ferguson",
+          "position": "TE",
+          "nfl_team": "LAR"
+        },
+        {
+          "player_id": "12502",
+          "name": "Gunnar Helm",
+          "position": "TE",
+          "nfl_team": "TEN"
+        },
+        {
           "player_id": "12509",
           "name": "Tre' Harris",
           "position": "WR",
@@ -245,12 +251,6 @@
           "name": "Taylen Green",
           "position": "QB",
           "nfl_team": "CLE"
-        },
-        {
-          "player_id": "13349",
-          "name": "Eli Stowers",
-          "position": "TE",
-          "nfl_team": "PHI"
         },
         {
           "player_id": "13424",
@@ -356,12 +356,6 @@
           "name": "Xavier Worthy",
           "position": "WR",
           "nfl_team": "KC"
-        },
-        {
-          "player_id": "11637",
-          "name": "Keon Coleman",
-          "position": "WR",
-          "nfl_team": "BUF"
         },
         {
           "player_id": "12499",
@@ -470,6 +464,12 @@
           "name": "Tyler Allgeier",
           "position": "RB",
           "nfl_team": "ARI"
+        },
+        {
+          "player_id": "8800",
+          "name": "Malik Davis",
+          "position": "RB",
+          "nfl_team": "DAL"
         },
         {
           "player_id": "9500",
@@ -1693,6 +1693,66 @@
   ],
   "transactions": [
     {
+      "transaction_id": "1398905235983863808",
+      "transaction_week": 1,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1787887507963,
+      "adds": [
+        {
+          "player_id": "12502",
+          "name": "Gunnar Helm",
+          "position": "TE",
+          "nfl_team": "TEN",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13349",
+          "name": "Eli Stowers",
+          "position": "TE",
+          "nfl_team": "PHI",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1398392062595837952",
+      "transaction_week": 1,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1787765157892,
+      "adds": [
+        {
+          "player_id": "12487",
+          "name": "Terrance Ferguson",
+          "position": "TE",
+          "nfl_team": "LAR",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
+          "position": "QB",
+          "nfl_team": "MIN",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
       "transaction_id": "1398204873392037888",
       "transaction_week": 1,
       "type": "free_agent",
@@ -1728,6 +1788,36 @@
           "roster_id": 8,
           "team_name": "Stroud Boys",
           "display_name": "steve4rip"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1398012472673218560",
+      "transaction_week": 1,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1787674656603,
+      "adds": [
+        {
+          "player_id": "8800",
+          "name": "Malik Davis",
+          "position": "RB",
+          "nfl_team": "DAL",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "nfl_team": "BUF",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
         }
       ],
       "draft_picks": []
