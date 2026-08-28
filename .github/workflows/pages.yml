@@ -1,13 +1,13 @@
 name: Publish Sleeper State to Pages
 
 on:
-  on:
-  workflow_dispatch:
+workflow_dispatch:
 
   workflow_run:
     workflows: ["Update Sleeper League State"]
     types:
       - completed
+ 
 
 permissions:
   contents: read
