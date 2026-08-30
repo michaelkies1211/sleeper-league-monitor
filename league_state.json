@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T16:19:32.933697+00:00",
+  "generated_at": "2026-08-30T17:19:32.326514+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -621,7 +621,7 @@
           "player_id": "13403",
           "name": "Jam Miller",
           "position": "RB",
-          "nfl_team": "NE"
+          "nfl_team": null
         },
         {
           "player_id": "3163",
