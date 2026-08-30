@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T18:19:33.190344+00:00",
+  "generated_at": "2026-08-30T19:19:24.613041+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -327,7 +327,7 @@
         "8146",
         "2216",
         "11604",
-        "5850",
+        "11628",
         "5849"
       ],
       "reserve": [
@@ -2795,7 +2795,7 @@
           "player_id": "12504",
           "name": "Kaleb Johnson",
           "position": "RB",
-          "nfl_team": "PIT",
+          "nfl_team": "GB",
           "roster_id": 3,
           "team_name": "Still under Construction",
           "display_name": "Zabsocal"
