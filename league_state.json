@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T15:19:26.556097+00:00",
+  "generated_at": "2026-08-30T16:19:32.933697+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -3155,7 +3155,7 @@
           "player_id": "260",
           "name": "Josh Johnson",
           "position": "QB",
-          "nfl_team": "CIN",
+          "nfl_team": null,
           "roster_id": 2,
           "team_name": "To Infinity and Bijan!",
           "display_name": "michaelkies"
