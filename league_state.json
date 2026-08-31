@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T15:19:42.386018+00:00",
+  "generated_at": "2026-08-31T16:19:40.165052+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -415,7 +415,7 @@
           "player_id": "13400",
           "name": "Justin Joly",
           "position": "TE",
-          "nfl_team": "DEN"
+          "nfl_team": null
         },
         {
           "player_id": "4035",
@@ -522,12 +522,6 @@
           "nfl_team": "DET"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
-          "position": "WR",
-          "nfl_team": "MIA"
-        },
-        {
           "player_id": "11635",
           "name": "Ladd McConkey",
           "position": "WR",
@@ -550,12 +544,6 @@
           "name": "RJ Harvey",
           "position": "RB",
           "nfl_team": "DEN"
-        },
-        {
-          "player_id": "12495",
-          "name": "Ollie Gordon",
-          "position": "RB",
-          "nfl_team": "MIA"
         },
         {
           "player_id": "12501",
@@ -663,18 +651,19 @@
       "starters": [
         "6904",
         "9226",
-        "12489",
+        "8228",
         "10229",
         "11635",
-        "8148",
+        "7525",
         "10859",
-        "8228",
-        "7525"
+        "8148",
+        "3163"
       ],
       "reserve": [
         "4137"
       ],
       "taxi": [
+        "13281",
         "13330"
       ]
     },
@@ -1668,6 +1657,46 @@
   ],
   "transactions": [
     {
+      "transaction_id": "1400172728761253888",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788189701789,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "nfl_team": "MIA",
+          "roster_id": 4,
+          "team_name": null,
+          "display_name": "robshanahan"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1400172418051420160",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788189627711,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "nfl_team": "MIA",
+          "roster_id": 4,
+          "team_name": null,
+          "display_name": "robshanahan"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
       "transaction_id": "1400171517282672640",
       "transaction_week": 1,
       "type": "free_agent",
@@ -1679,7 +1708,7 @@
           "player_id": "12457",
           "name": "Jaydon Blue",
           "position": "RB",
-          "nfl_team": "DAL",
+          "nfl_team": null,
           "roster_id": 4,
           "team_name": null,
           "display_name": "robshanahan"
@@ -2990,7 +3019,7 @@
           "player_id": "7607",
           "name": "Michael Carter",
           "position": "RB",
-          "nfl_team": "TEN",
+          "nfl_team": null,
           "roster_id": 4,
           "team_name": null,
           "display_name": "robshanahan"
