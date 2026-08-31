@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T14:19:30.234430+00:00",
+  "generated_at": "2026-08-31T15:19:42.386018+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -540,22 +540,10 @@
           "nfl_team": "NYG"
         },
         {
-          "player_id": "12457",
-          "name": "Jaydon Blue",
-          "position": "RB",
-          "nfl_team": "DAL"
-        },
-        {
           "player_id": "12469",
           "name": "Dylan Sampson",
           "position": "RB",
           "nfl_team": "CLE"
-        },
-        {
-          "player_id": "12471",
-          "name": "DJ Giddens",
-          "position": "RB",
-          "nfl_team": "IND"
         },
         {
           "player_id": "12489",
@@ -574,12 +562,6 @@
           "name": "Matthew Golden",
           "position": "WR",
           "nfl_team": "GB"
-        },
-        {
-          "player_id": "12531",
-          "name": "Trevor Etienne",
-          "position": "RB",
-          "nfl_team": "CAR"
         },
         {
           "player_id": "13272",
@@ -616,12 +598,6 @@
           "name": "Denzel Boston",
           "position": "WR",
           "nfl_team": "CLE"
-        },
-        {
-          "player_id": "13403",
-          "name": "Jam Miller",
-          "position": "RB",
-          "nfl_team": null
         },
         {
           "player_id": "3163",
@@ -695,10 +671,11 @@
         "8228",
         "7525"
       ],
-      "reserve": [],
+      "reserve": [
+        "4137"
+      ],
       "taxi": [
-        "12471",
-        "12531"
+        "13330"
       ]
     },
     {
@@ -1690,6 +1667,86 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1400171517282672640",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788189412950,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12457",
+          "name": "Jaydon Blue",
+          "position": "RB",
+          "nfl_team": "DAL",
+          "roster_id": 4,
+          "team_name": null,
+          "display_name": "robshanahan"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1400171131054379008",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788189320866,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12471",
+          "name": "DJ Giddens",
+          "position": "RB",
+          "nfl_team": "IND",
+          "roster_id": 4,
+          "team_name": null,
+          "display_name": "robshanahan"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1400170978322989056",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788189284452,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12531",
+          "name": "Trevor Etienne",
+          "position": "RB",
+          "nfl_team": "CAR",
+          "roster_id": 4,
+          "team_name": null,
+          "display_name": "robshanahan"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1400170826178789376",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788189248179,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13403",
+          "name": "Jam Miller",
+          "position": "RB",
+          "nfl_team": null,
+          "roster_id": 4,
+          "team_name": null,
+          "display_name": "robshanahan"
+        }
+      ],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1398905235983863808",
       "transaction_week": 1,
