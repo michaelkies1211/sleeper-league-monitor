@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T15:44:32.111624+00:00",
+  "generated_at": "2026-09-01T16:42:01.221976+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -881,7 +881,7 @@
           "player_id": "13348",
           "name": "J'Mari Taylor",
           "position": "RB",
-          "nfl_team": "JAX"
+          "nfl_team": null
         },
         {
           "player_id": "13425",
@@ -1678,7 +1678,7 @@
           "player_id": "11569",
           "name": "Jarquez Hunter",
           "position": "RB",
-          "nfl_team": "MIA",
+          "nfl_team": null,
           "roster_id": 2,
           "team_name": "To Infinity and Bijan!",
           "display_name": "michaelkies"
@@ -3079,7 +3079,7 @@
           "player_id": "7607",
           "name": "Michael Carter",
           "position": "RB",
-          "nfl_team": null,
+          "nfl_team": "TEN",
           "roster_id": 4,
           "team_name": null,
           "display_name": "robshanahan"
