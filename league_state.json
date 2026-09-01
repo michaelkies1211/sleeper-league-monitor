@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T06:32:00.734666+00:00",
+  "generated_at": "2026-09-01T07:26:00.310953+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -187,12 +187,6 @@
           "nfl_team": "WAS"
         },
         {
-          "player_id": "11569",
-          "name": "Jarquez Hunter",
-          "position": "RB",
-          "nfl_team": "MIA"
-        },
-        {
           "player_id": "11581",
           "name": "MarShawn Lloyd",
           "position": "RB",
@@ -233,6 +227,12 @@
           "name": "Gunnar Helm",
           "position": "TE",
           "nfl_team": "TEN"
+        },
+        {
+          "player_id": "12504",
+          "name": "Kaleb Johnson",
+          "position": "RB",
+          "nfl_team": "GB"
         },
         {
           "player_id": "12509",
@@ -842,12 +842,6 @@
           "nfl_team": "NYG"
         },
         {
-          "player_id": "12511",
-          "name": "Will Howard",
-          "position": "QB",
-          "nfl_team": "PIT"
-        },
-        {
           "player_id": "12529",
           "name": "TreVeyon Henderson",
           "position": "RB",
@@ -888,6 +882,12 @@
           "name": "J'Mari Taylor",
           "position": "RB",
           "nfl_team": "JAX"
+        },
+        {
+          "player_id": "13425",
+          "name": "Jalon Daniels",
+          "position": "QB",
+          "nfl_team": "TB"
         },
         {
           "player_id": "3294",
@@ -1657,6 +1657,36 @@
   ],
   "transactions": [
     {
+      "transaction_id": "1400270088732426240",
+      "transaction_week": 1,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1788212914215,
+      "adds": [
+        {
+          "player_id": "12504",
+          "name": "Kaleb Johnson",
+          "position": "RB",
+          "nfl_team": "GB",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11569",
+          "name": "Jarquez Hunter",
+          "position": "RB",
+          "nfl_team": "MIA",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
       "transaction_id": "1400172728761253888",
       "transaction_week": 1,
       "type": "free_agent",
@@ -1772,6 +1802,36 @@
           "roster_id": 4,
           "team_name": null,
           "display_name": "robshanahan"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1399884112516374529",
+      "transaction_week": 1,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1788120890315,
+      "adds": [
+        {
+          "player_id": "13425",
+          "name": "Jalon Daniels",
+          "position": "QB",
+          "nfl_team": "TB",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12511",
+          "name": "Will Howard",
+          "position": "QB",
+          "nfl_team": "PIT",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
         }
       ],
       "draft_picks": []
