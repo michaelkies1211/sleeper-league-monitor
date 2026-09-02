@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T02:37:53.897123+00:00",
+  "generated_at": "2026-09-02T03:24:52.740619+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -881,7 +881,7 @@
           "player_id": "13348",
           "name": "J'Mari Taylor",
           "position": "RB",
-          "nfl_team": null
+          "nfl_team": "JAX"
         },
         {
           "player_id": "13425",
