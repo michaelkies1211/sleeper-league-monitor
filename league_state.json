@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T16:27:11.205803+00:00",
+  "generated_at": "2026-09-02T17:24:04.827318+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -1297,7 +1297,9 @@
         "11620",
         "11586"
       ],
-      "reserve": [],
+      "reserve": [
+        "8205"
+      ],
       "taxi": [
         "12493",
         "13275"
