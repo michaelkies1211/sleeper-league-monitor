@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:26:22.891705+00:00",
+  "generated_at": "2026-09-04T16:26:20.322054+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -2791,7 +2791,7 @@
           "player_id": "12476",
           "name": "Devin Neal",
           "position": "RB",
-          "nfl_team": "NO",
+          "nfl_team": null,
           "roster_id": 2,
           "team_name": "To Infinity and Bijan!",
           "display_name": "michaelkies"
