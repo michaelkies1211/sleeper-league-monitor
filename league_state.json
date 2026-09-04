@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T06:30:43.303147+00:00",
+  "generated_at": "2026-09-04T07:25:31.431587+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -830,6 +830,12 @@
       "team_name": "PW crush dyn",
       "players": [
         {
+          "player_id": "11237",
+          "name": "Jacob Saylors",
+          "position": "RB",
+          "nfl_team": "DET"
+        },
+        {
           "player_id": "11583",
           "name": "Jonathon Brooks",
           "position": "RB",
@@ -876,12 +882,6 @@
           "name": "Zachariah Branch",
           "position": "WR",
           "nfl_team": "ATL"
-        },
-        {
-          "player_id": "13348",
-          "name": "J'Mari Taylor",
-          "position": "RB",
-          "nfl_team": "JAX"
         },
         {
           "player_id": "13425",
@@ -1658,6 +1658,36 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1401003088105512960",
+      "transaction_week": 1,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1788387674884,
+      "adds": [
+        {
+          "player_id": "11237",
+          "name": "Jacob Saylors",
+          "position": "RB",
+          "nfl_team": "DET",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13348",
+          "name": "J'Mari Taylor",
+          "position": "RB",
+          "nfl_team": "JAX",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1400270088732426240",
       "transaction_week": 1,
