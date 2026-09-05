@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:22:47.061755+00:00",
+  "generated_at": "2026-09-05T15:23:26.858091+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -1262,12 +1262,6 @@
           "nfl_team": "CIN"
         },
         {
-          "player_id": "9506",
-          "name": "Sean Tucker",
-          "position": "RB",
-          "nfl_team": "TB"
-        },
-        {
           "player_id": "9511",
           "name": "Keaton Mitchell",
           "position": "RB",
@@ -1295,13 +1289,13 @@
         "8167",
         "12517",
         "11620",
-        "11586"
+        "9758"
       ],
       "reserve": [
         "8205"
       ],
       "taxi": [
-        "12493",
+        "12524",
         "13275"
       ]
     },
@@ -1658,6 +1652,26 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1401980290879983616",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788620658182,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "9506",
+          "name": "Sean Tucker",
+          "position": "RB",
+          "nfl_team": "TB",
+          "roster_id": 8,
+          "team_name": "Stroud Boys",
+          "display_name": "steve4rip"
+        }
+      ],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1401003088105512960",
       "transaction_week": 1,
