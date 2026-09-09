@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T22:24:46.705433+00:00",
+  "generated_at": "2026-09-09T23:23:56.894910+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -193,6 +193,12 @@
           "nfl_team": "GB"
         },
         {
+          "player_id": "11603",
+          "name": "AJ Barner",
+          "position": "TE",
+          "nfl_team": "SEA"
+        },
+        {
           "player_id": "11604",
           "name": "Brock Bowers",
           "position": "TE",
@@ -221,12 +227,6 @@
           "name": "Terrance Ferguson",
           "position": "TE",
           "nfl_team": "LAR"
-        },
-        {
-          "player_id": "12502",
-          "name": "Gunnar Helm",
-          "position": "TE",
-          "nfl_team": "TEN"
         },
         {
           "player_id": "12504",
@@ -326,7 +326,7 @@
         "9493",
         "8146",
         "2216",
-        "12487",
+        "11603",
         "11628",
         "5849"
       ],
@@ -1652,6 +1652,36 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1403551945179856896",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788995369766,
+      "adds": [
+        {
+          "player_id": "11603",
+          "name": "AJ Barner",
+          "position": "TE",
+          "nfl_team": "SEA",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12502",
+          "name": "Gunnar Helm",
+          "position": "TE",
+          "nfl_team": "TEN",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1401980290879983616",
       "transaction_week": 1,
