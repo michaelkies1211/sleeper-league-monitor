@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T23:23:56.894910+00:00",
+  "generated_at": "2026-09-10T00:32:13.968707+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -674,6 +674,12 @@
       "team_name": "Beantown Bashers ",
       "players": [
         {
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "position": "WR",
+          "nfl_team": "NO"
+        },
+        {
           "player_id": "12510",
           "name": "Jalen Milroe",
           "position": "QB",
@@ -817,7 +823,9 @@
         "7543",
         "4943"
       ],
-      "reserve": [],
+      "reserve": [
+        "9502"
+      ],
       "taxi": [
         "12510",
         "13420"
@@ -1132,7 +1140,7 @@
       "reserve": [],
       "taxi": [
         "13303",
-        "13337"
+        "13380"
       ]
     },
     {
@@ -1652,6 +1660,26 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1403556889622573056",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788996548614,
+      "adds": [
+        {
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "position": "WR",
+          "nfl_team": "NO",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1403551945179856896",
       "transaction_week": 1,
