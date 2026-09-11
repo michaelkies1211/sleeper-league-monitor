@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:24:50.508441+00:00",
+  "generated_at": "2026-09-11T18:28:45.430809+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -137,6 +137,12 @@
           "nfl_team": "KC"
         },
         {
+          "player_id": "9504",
+          "name": "Kayshon Boutte",
+          "position": "WR",
+          "nfl_team": "HOU"
+        },
+        {
           "player_id": "9508",
           "name": "Tyjae Spears",
           "position": "RB",
@@ -161,6 +167,7 @@
         "12522"
       ],
       "reserve": [
+        "6768",
         "9753"
       ],
       "taxi": [
@@ -1660,6 +1667,26 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1404194745927888896",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789148625407,
+      "adds": [
+        {
+          "player_id": "9504",
+          "name": "Kayshon Boutte",
+          "position": "WR",
+          "nfl_team": "HOU",
+          "roster_id": 1,
+          "team_name": "Tua\u2019s Burner Account",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1403556889622573056",
       "transaction_week": 1,
