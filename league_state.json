@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:24:23.181202+00:00",
+  "generated_at": "2026-09-13T16:25:29.291287+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 1,
@@ -359,6 +359,12 @@
           "nfl_team": "BUF"
         },
         {
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "nfl_team": "MIA"
+        },
+        {
           "player_id": "11624",
           "name": "Xavier Worthy",
           "position": "WR",
@@ -473,10 +479,10 @@
           "nfl_team": "ARI"
         },
         {
-          "player_id": "8800",
-          "name": "Malik Davis",
-          "position": "RB",
-          "nfl_team": "DAL"
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "nfl_team": "LV"
         },
         {
           "player_id": "9500",
@@ -497,13 +503,14 @@
         "8132",
         "4037",
         "12514",
-        "5045",
+        "9500",
         "7553",
         "12512",
         "4046"
       ],
       "reserve": [
-        "13353"
+        "13353",
+        "4035"
       ],
       "taxi": [
         "13289",
@@ -1667,6 +1674,56 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1404891516966555648",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789314748568,
+      "adds": [
+        {
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "nfl_team": "MIA",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1404890311112536064",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789314461070,
+      "adds": [
+        {
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "nfl_team": "LV",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8800",
+          "name": "Malik Davis",
+          "position": "RB",
+          "nfl_team": "DAL",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1404194745927888896",
       "transaction_week": 1,
