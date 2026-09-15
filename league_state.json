@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T19:24:11.205034+00:00",
+  "generated_at": "2026-09-15T20:25:16.615740+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 2,
@@ -1492,12 +1492,6 @@
           "nfl_team": "DEN"
         },
         {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "nfl_team": "NYJ"
-        },
-        {
           "player_id": "11618",
           "name": "Jalen McMillan",
           "position": "WR",
@@ -1514,12 +1508,6 @@
           "name": "Luther Burden",
           "position": "WR",
           "nfl_team": "CHI"
-        },
-        {
-          "player_id": "12521",
-          "name": "Elijah Arroyo",
-          "position": "TE",
-          "nfl_team": "SEA"
         },
         {
           "player_id": "12526",
@@ -1550,12 +1538,6 @@
           "name": "Germie Bernard",
           "position": "WR",
           "nfl_team": "PIT"
-        },
-        {
-          "player_id": "13278",
-          "name": "Max Klare",
-          "position": "TE",
-          "nfl_team": "LAR"
         },
         {
           "player_id": "13296",
@@ -1666,7 +1648,7 @@
         "8183"
       ],
       "reserve": [
-        "12536",
+        "11618",
         "13311"
       ],
       "taxi": [
@@ -1676,6 +1658,66 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1405682732192813056",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789503388979,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11571",
+          "name": "Isaiah Davis",
+          "position": "RB",
+          "nfl_team": "NYJ",
+          "roster_id": 10,
+          "team_name": "Seal Team Nix",
+          "display_name": "efritz0"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1405682693512888320",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789503379756,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12521",
+          "name": "Elijah Arroyo",
+          "position": "TE",
+          "nfl_team": "SEA",
+          "roster_id": 10,
+          "team_name": "Seal Team Nix",
+          "display_name": "efritz0"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1405682661913051136",
+      "transaction_week": 1,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789503372222,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13278",
+          "name": "Max Klare",
+          "position": "TE",
+          "nfl_team": "LAR",
+          "roster_id": 10,
+          "team_name": "Seal Team Nix",
+          "display_name": "efritz0"
+        }
+      ],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1404891516966555648",
       "transaction_week": 1,
