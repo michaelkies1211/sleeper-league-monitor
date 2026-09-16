@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:32:03.356664+00:00",
+  "generated_at": "2026-09-16T07:27:04.784469+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 2,
@@ -1062,6 +1062,12 @@
           "nfl_team": "CIN"
         },
         {
+          "player_id": "4177",
+          "name": "Mack Hollins",
+          "position": "WR",
+          "nfl_team": "NE"
+        },
+        {
           "player_id": "5859",
           "name": "A.J. Brown",
           "position": "WR",
@@ -1716,6 +1722,26 @@
           "display_name": "efritz0"
         }
       ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1405593773265649664",
+      "transaction_week": 1,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1789482179519,
+      "adds": [
+        {
+          "player_id": "4177",
+          "name": "Mack Hollins",
+          "position": "WR",
+          "nfl_team": "NE",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
+      "drops": [],
       "draft_picks": []
     },
     {
