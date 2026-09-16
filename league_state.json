@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:26:57.922858+00:00",
+  "generated_at": "2026-09-16T15:26:12.285537+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 2,
@@ -371,12 +371,6 @@
           "nfl_team": "KC"
         },
         {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
-          "position": "WR",
-          "nfl_team": "TEN"
-        },
-        {
           "player_id": "12507",
           "name": "Omarion Hampton",
           "position": "RB",
@@ -509,8 +503,7 @@
         "4046"
       ],
       "reserve": [
-        "13353",
-        "4035"
+        "13353"
       ],
       "taxi": [
         "13289",
@@ -3561,6 +3554,26 @@
           "roster_id": 2,
           "team_name": "To Infinity and Bijan!",
           "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1405959321501646848",
+      "transaction_week": 2,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789569333009,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
+          "position": "WR",
+          "nfl_team": "TEN",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
         }
       ],
       "draft_picks": []
