@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:27:56.955367+00:00",
+  "generated_at": "2026-09-17T15:26:18.900231+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 2,
@@ -1283,6 +1283,12 @@
           "name": "Chase Brown",
           "position": "RB",
           "nfl_team": "CIN"
+        },
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "nfl_team": "PHI"
         },
         {
           "player_id": "9511",
@@ -3557,6 +3563,26 @@
           "display_name": "michaelkies"
         }
       ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1406320226886234112",
+      "transaction_week": 2,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789655379557,
+      "adds": [
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "nfl_team": "PHI",
+          "roster_id": 8,
+          "team_name": "Stroud Boys",
+          "display_name": "steve4rip"
+        }
+      ],
+      "drops": [],
       "draft_picks": []
     },
     {
