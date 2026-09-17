@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:24:44.057386+00:00",
+  "generated_at": "2026-09-17T22:24:04.005187+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 2,
@@ -1532,12 +1532,6 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "nfl_team": "CHI"
-        },
-        {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
-          "position": "WR",
-          "nfl_team": "HOU"
         },
         {
           "player_id": "13274",
@@ -3561,6 +3555,26 @@
           "roster_id": 2,
           "team_name": "To Infinity and Bijan!",
           "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1406436895805784064",
+      "transaction_week": 2,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789683195595,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "nfl_team": "HOU",
+          "roster_id": 10,
+          "team_name": "Seal Team Nix",
+          "display_name": "efritz0"
         }
       ],
       "draft_picks": []
