@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:25:17.584227+00:00",
+  "generated_at": "2026-09-18T16:24:32.237152+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 2,
@@ -193,12 +193,6 @@
           "nfl_team": "GB"
         },
         {
-          "player_id": "11603",
-          "name": "AJ Barner",
-          "position": "TE",
-          "nfl_team": "SEA"
-        },
-        {
           "player_id": "11604",
           "name": "Brock Bowers",
           "position": "TE",
@@ -293,6 +287,12 @@
           "name": "Mac Jones",
           "position": "QB",
           "nfl_team": "SF"
+        },
+        {
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "nfl_team": "PIT"
         },
         {
           "player_id": "8146",
@@ -3545,6 +3545,36 @@
           "name": "Josh Johnson",
           "position": "QB",
           "nfl_team": "CIN",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1406710854065344512",
+      "transaction_week": 2,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789748512335,
+      "adds": [
+        {
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "nfl_team": "PIT",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11603",
+          "name": "AJ Barner",
+          "position": "TE",
+          "nfl_team": "SEA",
           "roster_id": 2,
           "team_name": "To Infinity and Bijan!",
           "display_name": "michaelkies"
