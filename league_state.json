@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:25:40.228376+00:00",
+  "generated_at": "2026-09-18T15:25:17.584227+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 2,
@@ -8,7 +8,7 @@
       "roster_id": 1,
       "owner_id": "1098307491659616256",
       "display_name": "hfritz4",
-      "team_name": "Tua\u2019s Burner Account",
+      "team_name": "MyNabersLikelyaCokehead",
       "players": [
         {
           "player_id": "10222",
@@ -77,10 +77,10 @@
           "nfl_team": "LAR"
         },
         {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
+          "player_id": "3161",
+          "name": "Carson Wentz",
           "position": "QB",
-          "nfl_team": "CLE"
+          "nfl_team": "MIN"
         },
         {
           "player_id": "4984",
@@ -99,12 +99,6 @@
           "name": "Tony Pollard",
           "position": "RB",
           "nfl_team": "TEN"
-        },
-        {
-          "player_id": "6768",
-          "name": "Tua Tagovailoa",
-          "position": "QB",
-          "nfl_team": "ATL"
         },
         {
           "player_id": "6813",
@@ -167,7 +161,6 @@
         "12522"
       ],
       "reserve": [
-        "6768",
         "9753"
       ],
       "taxi": [
@@ -1801,7 +1794,7 @@
           "position": "WR",
           "nfl_team": "HOU",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2362,7 +2355,7 @@
           "position": "QB",
           "nfl_team": "CLE",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2373,7 +2366,7 @@
           "position": "WR",
           "nfl_team": "IND",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2422,7 +2415,7 @@
           "position": "WR",
           "nfl_team": "KC",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2433,7 +2426,7 @@
           "position": "QB",
           "nfl_team": "CLE",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2453,7 +2446,7 @@
           "position": "WR",
           "nfl_team": "NE",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2672,7 +2665,7 @@
           "position": "QB",
           "nfl_team": "CLE",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2683,7 +2676,7 @@
           "position": "QB",
           "nfl_team": "KC",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2842,7 +2835,7 @@
           "position": "TE",
           "nfl_team": "NYG",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2853,7 +2846,7 @@
           "position": "WR",
           "nfl_team": "CAR",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2872,7 +2865,7 @@
           "position": "QB",
           "nfl_team": "MIA",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2893,7 +2886,7 @@
           "position": "RB",
           "nfl_team": "NYJ",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -2913,7 +2906,7 @@
           "position": "WR",
           "nfl_team": "NO",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -3233,7 +3226,7 @@
           "position": "WR",
           "nfl_team": "MIN",
           "roster_id": 1,
-          "team_name": "Tua\u2019s Burner Account",
+          "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
         }
       ],
@@ -3555,6 +3548,56 @@
           "roster_id": 2,
           "team_name": "To Infinity and Bijan!",
           "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1406690474160291840",
+      "transaction_week": 2,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789743653386,
+      "adds": [
+        {
+          "player_id": "3161",
+          "name": "Carson Wentz",
+          "position": "QB",
+          "nfl_team": "MIN",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4017",
+          "name": "Deshaun Watson",
+          "position": "QB",
+          "nfl_team": "CLE",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1406690404555886592",
+      "transaction_week": 2,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789743636791,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6768",
+          "name": "Tua Tagovailoa",
+          "position": "QB",
+          "nfl_team": "ATL",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
         }
       ],
       "draft_picks": []
