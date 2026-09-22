@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:03:10.181146+00:00",
+  "generated_at": "2026-09-22T00:06:00.551106+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 2,
@@ -327,7 +327,7 @@
         "8146",
         "11628",
         "7600",
-        "9493",
+        "12487",
         "3257"
       ],
       "reserve": [
@@ -3205,7 +3205,7 @@
           "player_id": "1339",
           "name": "Zach Ertz",
           "position": "TE",
-          "nfl_team": null,
+          "nfl_team": "PHI",
           "roster_id": 6,
           "team_name": "PW crush dyn",
           "display_name": "tpodesta"
