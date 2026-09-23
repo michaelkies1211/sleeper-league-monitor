@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:57:30.977591+00:00",
+  "generated_at": "2026-09-23T11:34:06.068121+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 3,
@@ -77,10 +77,16 @@
           "nfl_team": "LAR"
         },
         {
-          "player_id": "3161",
-          "name": "Carson Wentz",
+          "player_id": "2306",
+          "name": "Jameis Winston",
           "position": "QB",
-          "nfl_team": "MIN"
+          "nfl_team": "NYG"
+        },
+        {
+          "player_id": "2307",
+          "name": "Marcus Mariota",
+          "position": "QB",
+          "nfl_team": "WAS"
         },
         {
           "player_id": "4984",
@@ -676,6 +682,12 @@
       "team_name": "Beantown Bashers ",
       "players": [
         {
+          "player_id": "11603",
+          "name": "AJ Barner",
+          "position": "TE",
+          "nfl_team": "SEA"
+        },
+        {
           "player_id": "11834",
           "name": "Devaughn Vele",
           "position": "WR",
@@ -704,12 +716,6 @@
           "name": "Bryce Lance",
           "position": "WR",
           "nfl_team": "NO"
-        },
-        {
-          "player_id": "13421",
-          "name": "Eli Raridon",
-          "position": "TE",
-          "nfl_team": "NE"
         },
         {
           "player_id": "3214",
@@ -1361,6 +1367,12 @@
           "nfl_team": "JAX"
         },
         {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "nfl_team": "BUF"
+        },
+        {
           "player_id": "12508",
           "name": "Jaxson Dart",
           "position": "QB",
@@ -1395,6 +1407,12 @@
           "name": "Kaytron Allen",
           "position": "RB",
           "nfl_team": "WAS"
+        },
+        {
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "nfl_team": "CAR"
         },
         {
           "player_id": "4034",
@@ -3555,6 +3573,226 @@
           "display_name": "michaelkies"
         }
       ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408358039601315840",
+      "transaction_week": 2,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790141231970,
+      "adds": [
+        {
+          "player_id": "2306",
+          "name": "Jameis Winston",
+          "position": "QB",
+          "nfl_team": "NYG",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408354696703352832",
+      "transaction_week": 2,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790140434961,
+      "adds": [
+        {
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "nfl_team": "LV",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408354544210952192",
+      "transaction_week": 2,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790140398604,
+      "adds": [
+        {
+          "player_id": "2307",
+          "name": "Marcus Mariota",
+          "position": "QB",
+          "nfl_team": "WAS",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408329604837425152",
+      "transaction_week": 2,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790134452594,
+      "adds": [
+        {
+          "player_id": "2307",
+          "name": "Marcus Mariota",
+          "position": "QB",
+          "nfl_team": "WAS",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "3161",
+          "name": "Carson Wentz",
+          "position": "QB",
+          "nfl_team": "MIN",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408320805120610304",
+      "transaction_week": 2,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790132354578,
+      "adds": [
+        {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "nfl_team": "BUF",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408318489155911680",
+      "transaction_week": 2,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790131802409,
+      "adds": [
+        {
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "nfl_team": "LV",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408280862629310464",
+      "transaction_week": 2,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790122831546,
+      "adds": [
+        {
+          "player_id": "2306",
+          "name": "Jameis Winston",
+          "position": "QB",
+          "nfl_team": "NYG",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408209559914315776",
+      "transaction_week": 2,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790105831653,
+      "adds": [
+        {
+          "player_id": "11603",
+          "name": "AJ Barner",
+          "position": "TE",
+          "nfl_team": "SEA",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13421",
+          "name": "Eli Raridon",
+          "position": "TE",
+          "nfl_team": "NE",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408181859556352000",
+      "transaction_week": 2,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790099227374,
+      "adds": [
+        {
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "nfl_team": "CAR",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408181040006082560",
+      "transaction_week": 2,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790099031977,
+      "adds": [
+        {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "nfl_team": "BUF",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
+      "drops": [],
       "draft_picks": []
     },
     {
