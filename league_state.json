@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:34:06.068121+00:00",
+  "generated_at": "2026-09-23T16:56:30.576521+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 3,
@@ -218,6 +218,12 @@
           "nfl_team": "SF"
         },
         {
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "nfl_team": "LV"
+        },
+        {
           "player_id": "12484",
           "name": "Jayden Higgins",
           "position": "WR",
@@ -296,12 +302,6 @@
           "nfl_team": "SF"
         },
         {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
-          "nfl_team": "PIT"
-        },
-        {
           "player_id": "8146",
           "name": "Garrett Wilson",
           "position": "WR",
@@ -329,13 +329,13 @@
       "starters": [
         "5849",
         "9509",
-        "11581",
+        "3198",
         "2216",
         "8146",
         "10213",
         "11604",
-        "3198",
-        "3257"
+        "9493",
+        "1166"
       ],
       "reserve": [
         "11638",
@@ -599,6 +599,12 @@
           "name": "Jared Goff",
           "position": "QB",
           "nfl_team": "DET"
+        },
+        {
+          "player_id": "4017",
+          "name": "Deshaun Watson",
+          "position": "QB",
+          "nfl_team": "CLE"
         },
         {
           "player_id": "4137",
@@ -942,6 +948,12 @@
           "nfl_team": "NO"
         },
         {
+          "player_id": "7571",
+          "name": "Rashod Bateman",
+          "position": "WR",
+          "nfl_team": "BAL"
+        },
+        {
           "player_id": "8134",
           "name": "Khalil Shakir",
           "position": "WR",
@@ -989,7 +1001,9 @@
         "4199",
         "3294"
       ],
-      "reserve": [],
+      "reserve": [
+        "11583"
+      ],
       "taxi": [
         "13320",
         "13425"
@@ -3933,6 +3947,76 @@
           "display_name": "Zabsocal"
         }
       ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408506240522334208",
+      "transaction_week": 3,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790176565822,
+      "adds": [
+        {
+          "player_id": "7571",
+          "name": "Rashod Bateman",
+          "position": "WR",
+          "nfl_team": "BAL",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408462043446530048",
+      "transaction_week": 3,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790166028419,
+      "adds": [
+        {
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "nfl_team": "LV",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "nfl_team": "PIT",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408453828470136832",
+      "transaction_week": 3,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790164069816,
+      "adds": [
+        {
+          "player_id": "4017",
+          "name": "Deshaun Watson",
+          "position": "QB",
+          "nfl_team": "CLE",
+          "roster_id": 4,
+          "team_name": null,
+          "display_name": "robshanahan"
+        }
+      ],
+      "drops": [],
       "draft_picks": []
     }
   ],
