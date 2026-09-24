@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:08:49.864976+00:00",
+  "generated_at": "2026-09-24T22:23:05.716306+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 3,
@@ -1180,6 +1180,12 @@
       "team_name": "Stroud Boys",
       "players": [
         {
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "nfl_team": "SEA"
+        },
+        {
           "player_id": "11559",
           "name": "Michael Penix",
           "position": "QB",
@@ -1270,12 +1276,6 @@
           "nfl_team": "DEN"
         },
         {
-          "player_id": "8154",
-          "name": "Brian Robinson",
-          "position": "RB",
-          "nfl_team": "ATL"
-        },
-        {
           "player_id": "8167",
           "name": "Christian Watson",
           "position": "WR",
@@ -1325,7 +1325,7 @@
         }
       ],
       "starters": [
-        "11560",
+        "9758",
         "12527",
         "9224",
         "6801",
@@ -1333,7 +1333,7 @@
         "8167",
         "1466",
         "9486",
-        "9758"
+        "11560"
       ],
       "reserve": [
         "8205",
@@ -3945,6 +3945,36 @@
           "roster_id": 3,
           "team_name": "Still under Construction",
           "display_name": "Zabsocal"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1408975797070430208",
+      "transaction_week": 3,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790288516827,
+      "adds": [
+        {
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "nfl_team": "SEA",
+          "roster_id": 8,
+          "team_name": "Stroud Boys",
+          "display_name": "steve4rip"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson",
+          "position": "RB",
+          "nfl_team": "ATL",
+          "roster_id": 8,
+          "team_name": "Stroud Boys",
+          "display_name": "steve4rip"
         }
       ],
       "draft_picks": []
