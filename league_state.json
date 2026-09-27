@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T22:48:56.112345+00:00",
+  "generated_at": "2026-09-27T01:26:07.499421+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 3,
@@ -535,12 +535,6 @@
           "nfl_team": "LAC"
         },
         {
-          "player_id": "11655",
-          "name": "Tyrone Tracy",
-          "position": "RB",
-          "nfl_team": "NYG"
-        },
-        {
           "player_id": "12469",
           "name": "Dylan Sampson",
           "position": "RB",
@@ -669,7 +663,7 @@
         "11635",
         "7525",
         "10859",
-        "8148",
+        "13346",
         "3163"
       ],
       "reserve": [
@@ -3945,6 +3939,26 @@
           "roster_id": 3,
           "team_name": "Still under Construction",
           "display_name": "Zabsocal"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1409742452604039168",
+      "transaction_week": 3,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790471301750,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11655",
+          "name": "Tyrone Tracy",
+          "position": "RB",
+          "nfl_team": "NYG",
+          "roster_id": 4,
+          "team_name": null,
+          "display_name": "robshanahan"
         }
       ],
       "draft_picks": []
