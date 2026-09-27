@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T13:57:14.014656+00:00",
+  "generated_at": "2026-09-27T18:22:39.953703+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 3,
@@ -164,7 +164,7 @@
         "8144",
         "12518",
         "11632",
-        "5012"
+        "13298"
       ],
       "reserve": [
         "10222",
@@ -216,12 +216,6 @@
           "name": "Ricky Pearsall",
           "position": "WR",
           "nfl_team": "SF"
-        },
-        {
-          "player_id": "1166",
-          "name": "Kirk Cousins",
-          "position": "QB",
-          "nfl_team": "LV"
         },
         {
           "player_id": "12484",
@@ -284,6 +278,12 @@
           "nfl_team": "ARI"
         },
         {
+          "player_id": "3321",
+          "name": "Tyreek Hill",
+          "position": "WR",
+          "nfl_team": null
+        },
+        {
           "player_id": "5849",
           "name": "Kyler Murray",
           "position": "QB",
@@ -334,7 +334,7 @@
         "8146",
         "10213",
         "12487",
-        "11628",
+        "11604",
         "3257"
       ],
       "reserve": [
@@ -495,7 +495,7 @@
         "6797",
         "12507",
         "13287",
-        "4037",
+        "11610",
         "12514",
         "9500",
         "10236",
@@ -1327,7 +1327,7 @@
         "8167",
         "1466",
         "9486",
-        "11560"
+        "13286"
       ],
       "reserve": [
         "8205",
@@ -3939,6 +3939,36 @@
           "roster_id": 3,
           "team_name": "Still under Construction",
           "display_name": "Zabsocal"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1409961665167929344",
+      "transaction_week": 3,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790523566098,
+      "adds": [
+        {
+          "player_id": "3321",
+          "name": "Tyreek Hill",
+          "position": "WR",
+          "nfl_team": null,
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "nfl_team": "LV",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
         }
       ],
       "draft_picks": []
