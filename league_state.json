@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:50:04.447238+00:00",
+  "generated_at": "2026-09-29T20:45:54.125281+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 4,
@@ -159,11 +159,11 @@
         "4984",
         "6813",
         "8151",
-        "11646",
+        "11632",
         "2133",
         "8144",
         "12518",
-        "11632",
+        "11646",
         "2307"
       ],
       "reserve": [
@@ -535,12 +535,6 @@
           "nfl_team": "LAC"
         },
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "nfl_team": "CLE"
-        },
-        {
           "player_id": "12489",
           "name": "RJ Harvey",
           "position": "RB",
@@ -657,7 +651,7 @@
       ],
       "starters": [
         "6904",
-        "9226",
+        "12489",
         "8228",
         "10229",
         "11635",
@@ -671,8 +665,7 @@
         "4137"
       ],
       "taxi": [
-        "13281",
-        "13330"
+        "13281"
       ]
     },
     {
@@ -1673,8 +1666,8 @@
         "11563"
       ],
       "reserve": [
-        "13296",
-        "5022"
+        "5022",
+        "8155"
       ],
       "taxi": [
         "13274",
@@ -2039,6 +2032,26 @@
           "roster_id": 3,
           "team_name": "Still under Construction",
           "display_name": "Zabsocal"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1410691275962720256",
+      "transaction_week": 3,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790697518867,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "nfl_team": "CLE",
+          "roster_id": 4,
+          "team_name": null,
+          "display_name": "robshanahan"
         }
       ],
       "draft_picks": []
