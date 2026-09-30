@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T06:41:52.343410+00:00",
+  "generated_at": "2026-09-30T13:41:43.767010+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 4,
@@ -27,6 +27,12 @@
           "name": "Jalen Coker",
           "position": "WR",
           "nfl_team": "CAR"
+        },
+        {
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "nfl_team": "LV"
         },
         {
           "player_id": "12474",
@@ -137,12 +143,6 @@
           "nfl_team": "KC"
         },
         {
-          "player_id": "9504",
-          "name": "Kayshon Boutte",
-          "position": "WR",
-          "nfl_team": "HOU"
-        },
-        {
           "player_id": "9508",
           "name": "Tyjae Spears",
           "position": "RB",
@@ -194,10 +194,10 @@
           "nfl_team": "WAS"
         },
         {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
+          "player_id": "11576",
+          "name": "Braelon Allen",
           "position": "RB",
-          "nfl_team": "GB"
+          "nfl_team": "NYJ"
         },
         {
           "player_id": "11604",
@@ -218,6 +218,12 @@
           "nfl_team": "SF"
         },
         {
+          "player_id": "11643",
+          "name": "Jaylen Wright",
+          "position": "RB",
+          "nfl_team": "MIA"
+        },
+        {
           "player_id": "12484",
           "name": "Jayden Higgins",
           "position": "WR",
@@ -228,12 +234,6 @@
           "name": "Terrance Ferguson",
           "position": "TE",
           "nfl_team": "LAR"
-        },
-        {
-          "player_id": "12504",
-          "name": "Kaleb Johnson",
-          "position": "RB",
-          "nfl_team": "GB"
         },
         {
           "player_id": "12509",
@@ -332,9 +332,9 @@
         "3198",
         "2216",
         "8146",
-        "10213",
-        "11604",
         "9493",
+        "11604",
+        "11576",
         "3257"
       ],
       "reserve": [
@@ -635,6 +635,12 @@
           "name": "Jameson Williams",
           "position": "WR",
           "nfl_team": "DET"
+        },
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson",
+          "position": "RB",
+          "nfl_team": "ATL"
         },
         {
           "player_id": "8228",
@@ -1375,6 +1381,12 @@
           "nfl_team": "BUF"
         },
         {
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "nfl_team": "MIA"
+        },
+        {
           "player_id": "12508",
           "name": "Jaxson Dart",
           "position": "QB",
@@ -1469,12 +1481,6 @@
           "name": "Rashid Shaheed",
           "position": "WR",
           "nfl_team": "SEA"
-        },
-        {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "position": "TE",
-          "nfl_team": "JAX"
         },
         {
           "player_id": "9484",
@@ -2037,6 +2043,206 @@
       "draft_picks": []
     },
     {
+      "transaction_id": "1410908221954142208",
+      "transaction_week": 3,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790749242823,
+      "adds": [
+        {
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "nfl_team": "NYJ",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1410908131680153600",
+      "transaction_week": 3,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790749221299,
+      "adds": [
+        {
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "nfl_team": "MIA",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1410905006931968000",
+      "transaction_week": 3,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790748476301,
+      "adds": [
+        {
+          "player_id": "11643",
+          "name": "Jaylen Wright",
+          "position": "RB",
+          "nfl_team": "MIA",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1410871254164033536",
+      "transaction_week": 3,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790740429014,
+      "adds": [
+        {
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "nfl_team": "MIA",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "nfl_team": "JAX",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1410870889842569216",
+      "transaction_week": 3,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790740342153,
+      "adds": [
+        {
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "nfl_team": "NYJ",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "nfl_team": "GB",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1410870669771567104",
+      "transaction_week": 3,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790740289685,
+      "adds": [
+        {
+          "player_id": "11643",
+          "name": "Jaylen Wright",
+          "position": "RB",
+          "nfl_team": "MIA",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12504",
+          "name": "Kaleb Johnson",
+          "position": "RB",
+          "nfl_team": "GB",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1410840961688289280",
+      "transaction_week": 3,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790733206726,
+      "adds": [
+        {
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "nfl_team": "MIA",
+          "roster_id": 10,
+          "team_name": "Seal Team Nix",
+          "display_name": "efritz0"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1410815123609669632",
+      "transaction_week": 3,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790727046447,
+      "adds": [
+        {
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "nfl_team": "LV",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9504",
+          "name": "Kayshon Boutte",
+          "position": "WR",
+          "nfl_team": "HOU",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
       "transaction_id": "1410691275962720256",
       "transaction_week": 3,
       "type": "free_agent",
@@ -2054,6 +2260,26 @@
           "display_name": "robshanahan"
         }
       ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1409988824238452736",
+      "transaction_week": 3,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790530041325,
+      "adds": [
+        {
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "nfl_team": "MIA",
+          "roster_id": 4,
+          "team_name": null,
+          "display_name": "robshanahan"
+        }
+      ],
+      "drops": [],
       "draft_picks": []
     },
     {
@@ -2084,6 +2310,26 @@
           "display_name": "michaelkies"
         }
       ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1409742542869729280",
+      "transaction_week": 3,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790471323272,
+      "adds": [
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson",
+          "position": "RB",
+          "nfl_team": "ATL",
+          "roster_id": 4,
+          "team_name": null,
+          "display_name": "robshanahan"
+        }
+      ],
+      "drops": [],
       "draft_picks": []
     },
     {
