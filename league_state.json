@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:29:51.560529+00:00",
+  "generated_at": "2026-10-07T20:36:32.914276+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 5,
@@ -53,6 +53,12 @@
           "nfl_team": "TEN"
         },
         {
+          "player_id": "13264",
+          "name": "Dohnte Meyers",
+          "position": "WR",
+          "nfl_team": "CIN"
+        },
+        {
           "player_id": "13298",
           "name": "KC Concepcion",
           "position": "WR",
@@ -87,12 +93,6 @@
           "name": "Jameis Winston",
           "position": "QB",
           "nfl_team": "NYG"
-        },
-        {
-          "player_id": "2307",
-          "name": "Marcus Mariota",
-          "position": "QB",
-          "nfl_team": "WAS"
         },
         {
           "player_id": "4984",
@@ -659,8 +659,8 @@
         "6904",
         "12489",
         "8228",
-        "10229",
-        "11635",
+        "8121",
+        "13346",
         "8148",
         "10859",
         "12501",
@@ -985,7 +985,7 @@
         }
       ],
       "starters": [
-        "4881",
+        "8161",
         "9221",
         "12481",
         "8134",
@@ -1663,7 +1663,7 @@
       ],
       "starters": [
         "8183",
-        "8155",
+        "12534",
         "7588",
         "9488",
         "6794",
@@ -2091,6 +2091,36 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1413601710806429696",
+      "transaction_week": 5,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791391420608,
+      "adds": [
+        {
+          "player_id": "13264",
+          "name": "Dohnte Meyers",
+          "position": "WR",
+          "nfl_team": "CIN",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "2307",
+          "name": "Marcus Mariota",
+          "position": "QB",
+          "nfl_team": "WAS",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
       "draft_picks": []
     }
   ],
