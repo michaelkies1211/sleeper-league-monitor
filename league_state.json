@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T20:36:32.914276+00:00",
+  "generated_at": "2026-10-08T00:59:06.000998+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 5,
@@ -1011,6 +1011,12 @@
       "team_name": "My Bench is Better",
       "players": [
         {
+          "player_id": "11256",
+          "name": "Tyson Bagent",
+          "position": "QB",
+          "nfl_team": "CHI"
+        },
+        {
           "player_id": "12490",
           "name": "Bhayshul Tuten",
           "position": "RB",
@@ -1057,12 +1063,6 @@
           "name": "Brenen Thompson",
           "position": "WR",
           "nfl_team": "LAC"
-        },
-        {
-          "player_id": "19",
-          "name": "Joe Flacco",
-          "position": "QB",
-          "nfl_team": "CIN"
         },
         {
           "player_id": "4177",
@@ -2091,6 +2091,36 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1413664205449461760",
+      "transaction_week": 5,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791406320492,
+      "adds": [
+        {
+          "player_id": "11256",
+          "name": "Tyson Bagent",
+          "position": "QB",
+          "nfl_team": "CHI",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "19",
+          "name": "Joe Flacco",
+          "position": "QB",
+          "nfl_team": "CIN",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
       "draft_picks": []
     },
     {
