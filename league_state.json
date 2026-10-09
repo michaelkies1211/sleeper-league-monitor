@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:10:56.762770+00:00",
+  "generated_at": "2026-10-09T20:53:03.011942+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 5,
@@ -1421,7 +1421,7 @@
           "player_id": "13405",
           "name": "Kaytron Allen",
           "position": "RB",
-          "nfl_team": "WAS"
+          "nfl_team": null
         },
         {
           "player_id": "2505",
@@ -1663,7 +1663,7 @@
       ],
       "starters": [
         "8183",
-        "12534",
+        "6806",
         "7588",
         "9488",
         "6794",
