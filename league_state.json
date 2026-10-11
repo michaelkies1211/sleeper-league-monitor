@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:39:11.575184+00:00",
+  "generated_at": "2026-10-11T20:15:18.050455+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 5,
@@ -688,6 +688,12 @@
           "nfl_team": "SEA"
         },
         {
+          "player_id": "11630",
+          "name": "Roman Wilson",
+          "position": "WR",
+          "nfl_team": "PIT"
+        },
+        {
           "player_id": "11834",
           "name": "Devaughn Vele",
           "position": "WR",
@@ -700,6 +706,12 @@
           "nfl_team": "SEA"
         },
         {
+          "player_id": "12542",
+          "name": "Efton Chism",
+          "position": "WR",
+          "nfl_team": "NE"
+        },
+        {
           "player_id": "13294",
           "name": "Makai Lemon",
           "position": "WR",
@@ -710,12 +722,6 @@
           "name": "Garrett Nussmeier",
           "position": "QB",
           "nfl_team": "KC"
-        },
-        {
-          "player_id": "13420",
-          "name": "Bryce Lance",
-          "position": "WR",
-          "nfl_team": "NO"
         },
         {
           "player_id": "3214",
@@ -752,12 +758,6 @@
           "name": "Joe Burrow",
           "position": "QB",
           "nfl_team": "CIN"
-        },
-        {
-          "player_id": "6783",
-          "name": "Jerry Jeudy",
-          "position": "WR",
-          "nfl_team": "CLE"
         },
         {
           "player_id": "6786",
@@ -836,8 +836,7 @@
         "9502"
       ],
       "taxi": [
-        "12510",
-        "13420"
+        "12510"
       ]
     },
     {
@@ -2092,6 +2091,66 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1415046206706499584",
+      "transaction_week": 5,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791735815268,
+      "adds": [
+        {
+          "player_id": "11630",
+          "name": "Roman Wilson",
+          "position": "WR",
+          "nfl_team": "PIT",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6783",
+          "name": "Jerry Jeudy",
+          "position": "WR",
+          "nfl_team": "CLE",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1415045002404417536",
+      "transaction_week": 5,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791735528139,
+      "adds": [
+        {
+          "player_id": "12542",
+          "name": "Efton Chism",
+          "position": "WR",
+          "nfl_team": "NE",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13420",
+          "name": "Bryce Lance",
+          "position": "WR",
+          "nfl_team": "NO",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
       "draft_picks": []
     },
     {
