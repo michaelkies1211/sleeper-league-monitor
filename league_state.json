@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T04:51:19.685035+00:00",
+  "generated_at": "2026-10-14T10:10:55.318750+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 6,
@@ -369,6 +369,12 @@
           "name": "Xavier Worthy",
           "position": "WR",
           "nfl_team": "KC"
+        },
+        {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "nfl_team": "LAC"
         },
         {
           "player_id": "12507",
@@ -852,6 +858,12 @@
           "nfl_team": "DET"
         },
         {
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "nfl_team": "GB"
+        },
+        {
           "player_id": "11583",
           "name": "Jonathon Brooks",
           "position": "RB",
@@ -966,12 +978,6 @@
           "nfl_team": "MIA"
         },
         {
-          "player_id": "8180",
-          "name": "Jalen Nailor",
-          "position": "WR",
-          "nfl_team": "LV"
-        },
-        {
           "player_id": "8210",
           "name": "Chig Okonkwo",
           "position": "TE",
@@ -1029,16 +1035,16 @@
           "nfl_team": "CLE"
         },
         {
-          "player_id": "12530",
-          "name": "Travis Hunter",
-          "position": "DB",
-          "nfl_team": "JAX"
-        },
-        {
           "player_id": "12545",
           "name": "Tyler Shough",
           "position": "QB",
           "nfl_team": "NO"
+        },
+        {
+          "player_id": "13150",
+          "name": "Darius Cooper",
+          "position": "WR",
+          "nfl_team": "PHI"
         },
         {
           "player_id": "13269",
@@ -1684,6 +1690,76 @@
   ],
   "transactions": [
     {
+      "transaction_id": "1415980615316049920",
+      "transaction_week": 5,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1791958595640,
+      "adds": [
+        {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "nfl_team": "LAC",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1415868649197109248",
+      "transaction_week": 5,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1791931900837,
+      "adds": [
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "nfl_team": "NO",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1415868561540370432",
+      "transaction_week": 5,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1791931879938,
+      "adds": [
+        {
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "nfl_team": "GB",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8180",
+          "name": "Jalen Nailor",
+          "position": "WR",
+          "nfl_team": "LV",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
       "transaction_id": "1415046206706499584",
       "transaction_week": 5,
       "type": "free_agent",
@@ -1739,6 +1815,36 @@
           "roster_id": 5,
           "team_name": "Beantown Bashers ",
           "display_name": "BeantownBasher"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1415021528646475776",
+      "transaction_week": 5,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1791729931560,
+      "adds": [
+        {
+          "player_id": "13150",
+          "name": "Darius Cooper",
+          "position": "WR",
+          "nfl_team": "PHI",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12530",
+          "name": "Travis Hunter",
+          "position": "DB",
+          "nfl_team": "JAX",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
         }
       ],
       "draft_picks": []
