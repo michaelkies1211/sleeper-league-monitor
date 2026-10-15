@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:24:37.174869+00:00",
+  "generated_at": "2026-10-15T18:16:56.161342+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 6,
@@ -1153,20 +1153,27 @@
           "name": "Anthony Richardson",
           "position": "QB",
           "nfl_team": "IND"
+        },
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "nfl_team": "NO"
         }
       ],
       "starters": [
         "7523",
         "8138",
-        "12490",
+        "7594",
         "7569",
         "5947",
         "5927",
         "12506",
-        "7594",
+        "12490",
         "12545"
       ],
       "reserve": [
+        "4177",
         "5859"
       ],
       "taxi": [
@@ -1907,6 +1914,26 @@
           "display_name": "hfritz4"
         }
       ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1416454392575537152",
+      "transaction_week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792071552942,
+      "adds": [
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "nfl_team": "NO",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
+      "drops": [],
       "draft_picks": []
     },
     {
