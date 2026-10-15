@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:25:00.681191+00:00",
+  "generated_at": "2026-10-15T13:24:37.174869+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 6,
@@ -334,7 +334,7 @@
         "8146",
         "9493",
         "11604",
-        "10213",
+        "11576",
         "3257"
       ],
       "reserve": [
@@ -924,16 +924,16 @@
           "nfl_team": "DAL"
         },
         {
-          "player_id": "4039",
-          "name": "Cooper Kupp",
-          "position": "WR",
-          "nfl_team": "SEA"
-        },
-        {
           "player_id": "4199",
           "name": "Aaron Jones",
           "position": "RB",
           "nfl_team": "MIN"
+        },
+        {
+          "player_id": "4454",
+          "name": "Kendrick Bourne",
+          "position": "WR",
+          "nfl_team": "ARI"
         },
         {
           "player_id": "4881",
@@ -992,13 +992,13 @@
       ],
       "starters": [
         "4881",
-        "9221",
+        "11581",
         "12481",
         "8134",
         "5846",
         "13279",
         "7002",
-        "7571",
+        "4454",
         "3294"
       ],
       "reserve": [
@@ -1905,6 +1905,36 @@
           "roster_id": 1,
           "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1416443899559358464",
+      "transaction_week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792069051211,
+      "adds": [
+        {
+          "player_id": "4454",
+          "name": "Kendrick Bourne",
+          "position": "WR",
+          "nfl_team": "ARI",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "nfl_team": "SEA",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
         }
       ],
       "draft_picks": []
