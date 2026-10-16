@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:28:26.682104+00:00",
+  "generated_at": "2026-10-16T00:23:42.075385+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 6,
@@ -479,12 +479,6 @@
           "nfl_team": "ARI"
         },
         {
-          "player_id": "9482",
-          "name": "Michael Mayer",
-          "position": "TE",
-          "nfl_team": "LV"
-        },
-        {
           "player_id": "9500",
           "name": "Josh Downs",
           "position": "WR",
@@ -501,16 +495,15 @@
         "5870",
         "12507",
         "13287",
-        "11610",
+        "11624",
         "12514",
         "9500",
         "10236",
         "12512",
-        "6797"
+        "4046"
       ],
       "reserve": [
-        "13353",
-        "9754"
+        "13353"
       ],
       "taxi": [
         "13289",
@@ -663,7 +656,7 @@
         }
       ],
       "starters": [
-        "6904",
+        "4017",
         "12489",
         "8228",
         "8121",
@@ -671,7 +664,7 @@
         "10229",
         "5001",
         "12501",
-        "4017"
+        "7525"
       ],
       "reserve": [
         "13293",
@@ -1912,6 +1905,26 @@
           "roster_id": 1,
           "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1416599280411557888",
+      "transaction_week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792106096893,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "nfl_team": "LV",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
         }
       ],
       "draft_picks": []
