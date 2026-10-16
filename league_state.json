@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:37:23.625660+00:00",
+  "generated_at": "2026-10-16T19:56:46.728364+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 6,
@@ -717,12 +717,6 @@
           "nfl_team": "PHI"
         },
         {
-          "player_id": "13404",
-          "name": "Garrett Nussmeier",
-          "position": "QB",
-          "nfl_team": "KC"
-        },
-        {
           "player_id": "3214",
           "name": "Hunter Henry",
           "position": "TE",
@@ -793,6 +787,12 @@
           "name": "Bryce Young",
           "position": "QB",
           "nfl_team": "CAR"
+        },
+        {
+          "player_id": "9230",
+          "name": "Tanner McKee",
+          "position": "QB",
+          "nfl_team": "PHI"
         },
         {
           "player_id": "9487",
@@ -1905,6 +1905,36 @@
           "roster_id": 1,
           "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1416864467517472768",
+      "transaction_week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792169322427,
+      "adds": [
+        {
+          "player_id": "9230",
+          "name": "Tanner McKee",
+          "position": "QB",
+          "nfl_team": "PHI",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13404",
+          "name": "Garrett Nussmeier",
+          "position": "QB",
+          "nfl_team": "KC",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
         }
       ],
       "draft_picks": []
