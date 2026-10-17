@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T18:29:14.196975+00:00",
+  "generated_at": "2026-10-17T21:26:58.570830+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 6,
@@ -1010,12 +1010,6 @@
       "team_name": "My Bench is Better",
       "players": [
         {
-          "player_id": "11256",
-          "name": "Tyson Bagent",
-          "position": "QB",
-          "nfl_team": "CHI"
-        },
-        {
           "player_id": "12490",
           "name": "Bhayshul Tuten",
           "position": "RB",
@@ -1159,15 +1153,14 @@
         "8138",
         "7594",
         "7569",
-        "5947",
+        "5859",
         "5927",
         "12506",
         "12490",
         "12545"
       ],
       "reserve": [
-        "4177",
-        "5859"
+        "4177"
       ],
       "taxi": [
         "13303",
@@ -1905,6 +1898,26 @@
           "roster_id": 1,
           "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1417279004230053888",
+      "transaction_week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792268155680,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11256",
+          "name": "Tyson Bagent",
+          "position": "QB",
+          "nfl_team": "CHI",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
         }
       ],
       "draft_picks": []
