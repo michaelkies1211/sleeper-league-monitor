@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T00:01:34.037071+00:00",
+  "generated_at": "2026-10-18T04:30:07.209914+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 6,
@@ -947,6 +947,12 @@
           "nfl_team": "NO"
         },
         {
+          "player_id": "7083",
+          "name": "Tyler Huntley",
+          "position": "QB",
+          "nfl_team": "BAL"
+        },
+        {
           "player_id": "7571",
           "name": "Rashod Bateman",
           "position": "WR",
@@ -984,7 +990,7 @@
         }
       ],
       "starters": [
-        "4881",
+        "7083",
         "11581",
         "12481",
         "8134",
@@ -1900,6 +1906,26 @@
           "display_name": "hfritz4"
         }
       ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1417358615387308032",
+      "transaction_week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792287136460,
+      "adds": [
+        {
+          "player_id": "7083",
+          "name": "Tyler Huntley",
+          "position": "QB",
+          "nfl_team": "BAL",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [],
       "draft_picks": []
     },
     {
