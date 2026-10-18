@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:00:16.840231+00:00",
+  "generated_at": "2026-10-18T17:21:45.163388+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 6,
@@ -218,12 +218,6 @@
           "nfl_team": "SF"
         },
         {
-          "player_id": "11643",
-          "name": "Jaylen Wright",
-          "position": "RB",
-          "nfl_team": "MIA"
-        },
-        {
           "player_id": "12484",
           "name": "Jayden Higgins",
           "position": "WR",
@@ -258,6 +252,12 @@
           "name": "Seth McGowan",
           "position": "RB",
           "nfl_team": "IND"
+        },
+        {
+          "player_id": "2197",
+          "name": "Brandin Cooks",
+          "position": "WR",
+          "nfl_team": "SF"
         },
         {
           "player_id": "2216",
@@ -1904,6 +1904,36 @@
           "roster_id": 1,
           "team_name": "MyNabersLikelyaCokehead",
           "display_name": "hfritz4"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1417551992351453184",
+      "transaction_week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792333241121,
+      "adds": [
+        {
+          "player_id": "2197",
+          "name": "Brandin Cooks",
+          "position": "WR",
+          "nfl_team": "SF",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11643",
+          "name": "Jaylen Wright",
+          "position": "RB",
+          "nfl_team": "MIA",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
         }
       ],
       "draft_picks": []
