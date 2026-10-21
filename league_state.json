@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:46:22.871288+00:00",
+  "generated_at": "2026-10-21T18:37:17.314317+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 7,
@@ -156,7 +156,7 @@
         }
       ],
       "starters": [
-        "12522",
+        "11565",
         "6813",
         "8151",
         "11632",
@@ -659,11 +659,11 @@
         "4017",
         "12489",
         "8228",
-        "8121",
+        "12501",
         "13346",
         "7525",
         "10859",
-        "12501",
+        "8148",
         "3163"
       ],
       "reserve": [
@@ -1148,6 +1148,12 @@
           "nfl_team": "IND"
         },
         {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "nfl_team": "NE"
+        },
+        {
           "player_id": "9757",
           "name": "Kendre Miller",
           "position": "RB",
@@ -1160,9 +1166,9 @@
         "7594",
         "7569",
         "5859",
-        "7049",
+        "9501",
         "12506",
-        "7567",
+        "7600",
         "9757"
       ],
       "reserve": [
@@ -2207,6 +2213,26 @@
           "display_name": "tpodesta"
         }
       ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1418631603558604800",
+      "transaction_week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792590640491,
+      "adds": [
+        {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "nfl_team": "NE",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
+      "drops": [],
       "draft_picks": []
     }
   ],
