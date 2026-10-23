@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:19:13.346679+00:00",
+  "generated_at": "2026-10-23T01:29:54.360935+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 7,
@@ -218,12 +218,6 @@
           "nfl_team": "SF"
         },
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "nfl_team": "CLE"
-        },
-        {
           "player_id": "12484",
           "name": "Jayden Higgins",
           "position": "WR",
@@ -240,6 +234,12 @@
           "name": "Tre' Harris",
           "position": "WR",
           "nfl_team": "LAC"
+        },
+        {
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "nfl_team": "LAR"
         },
         {
           "player_id": "13276",
@@ -1504,7 +1504,7 @@
       ],
       "starters": [
         "11564",
-        "7611",
+        "12495",
         "11584",
         "7564",
         "7547",
@@ -2211,6 +2211,36 @@
           "roster_id": 6,
           "team_name": "PW crush dyn",
           "display_name": "tpodesta"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1419122293363191808",
+      "transaction_week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792707630056,
+      "adds": [
+        {
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "nfl_team": "LAR",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "nfl_team": "CLE",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
         }
       ],
       "draft_picks": []
