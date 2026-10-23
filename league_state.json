@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:24:46.474050+00:00",
+  "generated_at": "2026-10-23T18:19:27.505275+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 7,
@@ -845,12 +845,6 @@
       "team_name": "PW crush dyn",
       "players": [
         {
-          "player_id": "11237",
-          "name": "Jacob Saylors",
-          "position": "RB",
-          "nfl_team": "DET"
-        },
-        {
           "player_id": "11581",
           "name": "MarShawn Lloyd",
           "position": "RB",
@@ -881,6 +875,12 @@
           "nfl_team": "DET"
         },
         {
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "nfl_team": "HOU"
+        },
+        {
           "player_id": "13279",
           "name": "Carnell Tate",
           "position": "WR",
@@ -909,6 +909,12 @@
           "name": "Jalon Daniels",
           "position": "QB",
           "nfl_team": "TB"
+        },
+        {
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "nfl_team": "LAR"
         },
         {
           "player_id": "3294",
@@ -945,12 +951,6 @@
           "name": "Juwan Johnson",
           "position": "TE",
           "nfl_team": "NO"
-        },
-        {
-          "player_id": "7083",
-          "name": "Tyler Huntley",
-          "position": "QB",
-          "nfl_team": "BAL"
         },
         {
           "player_id": "7571",
@@ -990,14 +990,14 @@
         }
       ],
       "starters": [
-        "7083",
-        "11581",
-        "12481",
-        "8134",
+        "4881",
+        "9221",
+        "4199",
+        "12536",
         "5846",
         "13279",
         "7002",
-        "4454",
+        "12481",
         "3294"
       ],
       "reserve": [
@@ -2208,6 +2208,66 @@
           "name": "Cooper Kupp",
           "position": "WR",
           "nfl_team": "SEA",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1419363104436805632",
+      "transaction_week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792765043890,
+      "adds": [
+        {
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "nfl_team": "HOU",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11237",
+          "name": "Jacob Saylors",
+          "position": "RB",
+          "nfl_team": "DET",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1419362466655133696",
+      "transaction_week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792764891831,
+      "adds": [
+        {
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "nfl_team": "LAR",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7083",
+          "name": "Tyler Huntley",
+          "position": "QB",
+          "nfl_team": "BAL",
           "roster_id": 6,
           "team_name": "PW crush dyn",
           "display_name": "tpodesta"
