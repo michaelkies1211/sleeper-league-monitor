@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:47:12.464699+00:00",
+  "generated_at": "2026-10-24T23:12:21.574820+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 7,
@@ -757,12 +757,6 @@
           "name": "Travis Etienne Jr.",
           "position": "RB",
           "nfl_team": "NO"
-        },
-        {
-          "player_id": "8122",
-          "name": "Zonovan Knight",
-          "position": "RB",
-          "nfl_team": "ARI"
         },
         {
           "player_id": "8137",
@@ -2210,6 +2204,26 @@
           "roster_id": 6,
           "team_name": "PW crush dyn",
           "display_name": "tpodesta"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1419824149131497472",
+      "transaction_week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792874965511,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "nfl_team": "ARI",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
         }
       ],
       "draft_picks": []
