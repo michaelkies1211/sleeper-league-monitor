@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T01:19:48.036373+00:00",
+  "generated_at": "2026-10-28T08:28:02.050905+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 8,
@@ -39,6 +39,12 @@
           "name": "Kirk Cousins",
           "position": "QB",
           "nfl_team": "LV"
+        },
+        {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "nfl_team": "DAL"
         },
         {
           "player_id": "12474",
@@ -111,12 +117,6 @@
           "name": "Jonathan Taylor",
           "position": "RB",
           "nfl_team": "IND"
-        },
-        {
-          "player_id": "7083",
-          "name": "Tyler Huntley",
-          "position": "QB",
-          "nfl_team": "BAL"
         },
         {
           "player_id": "8126",
@@ -492,7 +492,7 @@
         }
       ],
       "starters": [
-        "5870",
+        "6797",
         "12507",
         "8132",
         "11624",
@@ -601,12 +601,6 @@
           "nfl_team": "ARI"
         },
         {
-          "player_id": "5001",
-          "name": "Dalton Schultz",
-          "position": "TE",
-          "nfl_team": "HOU"
-        },
-        {
           "player_id": "6819",
           "name": "Michael Pittman Jr.",
           "position": "WR",
@@ -629,6 +623,12 @@
           "name": "Romeo Doubs",
           "position": "WR",
           "nfl_team": "NE"
+        },
+        {
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "nfl_team": "ARI"
         },
         {
           "player_id": "8148",
@@ -1027,12 +1027,6 @@
           "nfl_team": "NO"
         },
         {
-          "player_id": "13150",
-          "name": "Darius Cooper",
-          "position": "WR",
-          "nfl_team": "PHI"
-        },
-        {
           "player_id": "13269",
           "name": "Fernando Mendoza",
           "position": "QB",
@@ -1055,6 +1049,12 @@
           "name": "Brenen Thompson",
           "position": "WR",
           "nfl_team": "LAC"
+        },
+        {
+          "player_id": "1479",
+          "name": "Keenan Allen",
+          "position": "WR",
+          "nfl_team": "IND"
         },
         {
           "player_id": "4177",
@@ -1387,10 +1387,22 @@
           "nfl_team": "BUF"
         },
         {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "nfl_team": "CLE"
+        },
+        {
           "player_id": "12495",
           "name": "Ollie Gordon II",
           "position": "RB",
           "nfl_team": "MIA"
+        },
+        {
+          "player_id": "12498",
+          "name": "Mason Taylor",
+          "position": "TE",
+          "nfl_team": "NYJ"
         },
         {
           "player_id": "12508",
@@ -1421,18 +1433,6 @@
           "name": "Jonah Coleman",
           "position": "RB",
           "nfl_team": "DEN"
-        },
-        {
-          "player_id": "13405",
-          "name": "Kaytron Allen",
-          "position": "RB",
-          "nfl_team": "MIA"
-        },
-        {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "nfl_team": "CAR"
         },
         {
           "player_id": "4034",
@@ -1984,6 +1984,156 @@
           "roster_id": 6,
           "team_name": "PW crush dyn",
           "display_name": "tpodesta"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1421038300554129408",
+      "transaction_week": 7,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793164441768,
+      "adds": [
+        {
+          "player_id": "1479",
+          "name": "Keenan Allen",
+          "position": "WR",
+          "nfl_team": "IND",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13150",
+          "name": "Darius Cooper",
+          "position": "WR",
+          "nfl_team": "PHI",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1420960499025068032",
+      "transaction_week": 7,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793145892438,
+      "adds": [
+        {
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "nfl_team": "ARI",
+          "roster_id": 4,
+          "team_name": "MEDIC! ",
+          "display_name": "robshanahan"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5001",
+          "name": "Dalton Schultz",
+          "position": "TE",
+          "nfl_team": "HOU",
+          "roster_id": 4,
+          "team_name": "MEDIC! ",
+          "display_name": "robshanahan"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1420942940414459904",
+      "transaction_week": 7,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793141706139,
+      "adds": [
+        {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "nfl_team": "CLE",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13405",
+          "name": "Kaytron Allen",
+          "position": "RB",
+          "nfl_team": "MIA",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1420941346427940864",
+      "transaction_week": 7,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793141326103,
+      "adds": [
+        {
+          "player_id": "12498",
+          "name": "Mason Taylor",
+          "position": "TE",
+          "nfl_team": "NYJ",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "nfl_team": "CAR",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1420815577647198208",
+      "transaction_week": 7,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793111340489,
+      "adds": [
+        {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "nfl_team": "DAL",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7083",
+          "name": "Tyler Huntley",
+          "position": "QB",
+          "nfl_team": "BAL",
+          "roster_id": 1,
+          "team_name": "MyNabersLikelyaCokehead",
+          "display_name": "hfritz4"
         }
       ],
       "draft_picks": []
