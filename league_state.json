@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:28:02.050905+00:00",
+  "generated_at": "2026-10-28T15:59:44.471475+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 8,
@@ -161,7 +161,7 @@
         "8151",
         "13298",
         "11646",
-        "8126",
+        "11783",
         "12518",
         "5967",
         "1166"
@@ -236,12 +236,6 @@
           "nfl_team": "LAC"
         },
         {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
-          "position": "WR",
-          "nfl_team": "LAR"
-        },
-        {
           "player_id": "13276",
           "name": "Omar Cooper Jr.",
           "position": "WR",
@@ -314,6 +308,12 @@
           "nfl_team": "PHI"
         },
         {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "nfl_team": "JAX"
+        },
+        {
           "player_id": "9493",
           "name": "Puka Nacua",
           "position": "WR",
@@ -327,15 +327,15 @@
         }
       ],
       "starters": [
-        "11566",
+        "3257",
         "9509",
-        "3198",
+        "5850",
         "9493",
         "8146",
         "10213",
         "11604",
-        "5850",
-        "3257"
+        "3198",
+        "11566"
       ],
       "reserve": [
         "11638",
@@ -1063,6 +1063,12 @@
           "nfl_team": "NE"
         },
         {
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "nfl_team": "MIN"
+        },
+        {
           "player_id": "5859",
           "name": "A.J. Brown",
           "position": "WR",
@@ -1123,12 +1129,6 @@
           "nfl_team": "CAR"
         },
         {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
-          "nfl_team": "PIT"
-        },
-        {
           "player_id": "8138",
           "name": "James Cook III",
           "position": "RB",
@@ -1159,9 +1159,9 @@
         "7594",
         "5859",
         "5947",
-        "9501",
+        "1479",
         "12506",
-        "7600",
+        "0",
         "12490"
       ],
       "reserve": [
@@ -2356,6 +2356,66 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1421152789626621952",
+      "transaction_week": 8,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793191738090,
+      "adds": [
+        {
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "nfl_team": "MIN",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "nfl_team": "PIT",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1421149187067699200",
+      "transaction_week": 8,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793190879174,
+      "adds": [
+        {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "nfl_team": "JAX",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "nfl_team": "LAR",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
       "draft_picks": []
     }
   ],
