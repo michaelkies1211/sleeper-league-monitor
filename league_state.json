@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:20:01.104067+00:00",
+  "generated_at": "2026-11-01T18:54:54.024619+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 8,
@@ -161,7 +161,7 @@
         "8151",
         "13298",
         "11646",
-        "11783",
+        "8126",
         "12518",
         "5967",
         "1166"
@@ -1015,6 +1015,12 @@
           "nfl_team": "JAX"
         },
         {
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
+          "position": "WR",
+          "nfl_team": "TEN"
+        },
+        {
           "player_id": "12506",
           "name": "Harold Fannin Jr.",
           "position": "TE",
@@ -1145,12 +1151,6 @@
           "name": "DeMario Douglas",
           "position": "WR",
           "nfl_team": "NE"
-        },
-        {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "nfl_team": "NO"
         }
       ],
       "starters": [
@@ -1166,7 +1166,7 @@
       ],
       "reserve": [
         "4177",
-        "5872"
+        "5927"
       ],
       "taxi": [
         "13303",
@@ -1667,7 +1667,7 @@
         }
       ],
       "starters": [
-        "11563",
+        "1373",
         "6806",
         "7588",
         "8112",
@@ -1675,7 +1675,7 @@
         "6794",
         "8130",
         "9488",
-        "8183"
+        "11563"
       ],
       "reserve": [
         "11618",
@@ -2356,6 +2356,36 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1422661434747142144",
+      "transaction_week": 8,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793551427117,
+      "adds": [
+        {
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
+          "position": "WR",
+          "nfl_team": "TEN",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "nfl_team": "NO",
+          "roster_id": 7,
+          "team_name": "My Bench is Better",
+          "display_name": "jerryweitzman"
+        }
+      ],
       "draft_picks": []
     },
     {
