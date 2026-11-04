@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T15:23:54.786244+00:00",
+  "generated_at": "2026-11-04T21:51:45.721212+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 9,
@@ -290,6 +290,12 @@
           "nfl_team": "GB"
         },
         {
+          "player_id": "6803",
+          "name": "Brandon Aiyuk",
+          "position": "WR",
+          "nfl_team": "SF"
+        },
+        {
           "player_id": "7527",
           "name": "Mac Jones",
           "position": "QB",
@@ -306,12 +312,6 @@
           "name": "Tank Bigsby",
           "position": "RB",
           "nfl_team": "PHI"
-        },
-        {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "position": "TE",
-          "nfl_team": "JAX"
         },
         {
           "player_id": "9493",
@@ -459,6 +459,12 @@
           "name": "Daniel Jones",
           "position": "QB",
           "nfl_team": "IND"
+        },
+        {
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "nfl_team": "NYG"
         },
         {
           "player_id": "6797",
@@ -657,15 +663,15 @@
         }
       ],
       "starters": [
-        "4017",
+        "3163",
         "13305",
-        "8228",
+        "8154",
         "13346",
         "11635",
         "10229",
         "10859",
         "12501",
-        "3163"
+        "8148"
       ],
       "reserve": [
         "4137",
@@ -917,6 +923,12 @@
           "nfl_team": "DAL"
         },
         {
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "nfl_team": "SEA"
+        },
+        {
           "player_id": "4199",
           "name": "Aaron Jones Sr.",
           "position": "RB",
@@ -945,12 +957,6 @@
           "name": "Juwan Johnson",
           "position": "TE",
           "nfl_team": "NO"
-        },
-        {
-          "player_id": "7571",
-          "name": "Rashod Bateman",
-          "position": "WR",
-          "nfl_team": "BAL"
         },
         {
           "player_id": "8134",
@@ -987,7 +993,7 @@
         "8161",
         "9221",
         "4199",
-        "4454",
+        "4039",
         "8134",
         "13301",
         "8210",
@@ -1668,7 +1674,7 @@
         }
       ],
       "starters": [
-        "1373",
+        "8183",
         "6806",
         "7588",
         "8112",
@@ -2207,6 +2213,86 @@
           "display_name": "michaelkies"
         }
       ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1423772360305123328",
+      "transaction_week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793816292409,
+      "adds": [
+        {
+          "player_id": "6803",
+          "name": "Brandon Aiyuk",
+          "position": "WR",
+          "nfl_team": "SF",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "nfl_team": "JAX",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1423756389129392128",
+      "transaction_week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793812484585,
+      "adds": [
+        {
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "nfl_team": "SEA",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7571",
+          "name": "Rashod Bateman",
+          "position": "WR",
+          "nfl_team": "BAL",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1423755955836850176",
+      "transaction_week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793812381280,
+      "adds": [
+        {
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "nfl_team": "NYG",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [],
       "draft_picks": []
     }
   ],
