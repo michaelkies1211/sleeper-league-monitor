@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:17:27.934574+00:00",
+  "generated_at": "2026-11-04T15:23:54.786244+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 9,
@@ -260,6 +260,12 @@
           "nfl_team": "SF"
         },
         {
+          "player_id": "3161",
+          "name": "Carson Wentz",
+          "position": "QB",
+          "nfl_team": "MIN"
+        },
+        {
           "player_id": "3198",
           "name": "Derrick Henry",
           "position": "RB",
@@ -270,12 +276,6 @@
           "name": "Jacoby Brissett",
           "position": "QB",
           "nfl_team": "ARI"
-        },
-        {
-          "player_id": "3321",
-          "name": "Tyreek Hill",
-          "position": "WR",
-          "nfl_team": null
         },
         {
           "player_id": "5849",
@@ -1265,6 +1265,12 @@
           "nfl_team": "KC"
         },
         {
+          "player_id": "6011",
+          "name": "Gardner Minshew II",
+          "position": "QB",
+          "nfl_team": "ARI"
+        },
+        {
           "player_id": "6801",
           "name": "Tee Higgins",
           "position": "WR",
@@ -1299,12 +1305,6 @@
           "name": "Chase Brown",
           "position": "RB",
           "nfl_team": "CIN"
-        },
-        {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "nfl_team": "PHI"
         },
         {
           "player_id": "9511",
@@ -2057,6 +2057,66 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1423564454477463552",
+      "transaction_week": 8,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793766723797,
+      "adds": [
+        {
+          "player_id": "6011",
+          "name": "Gardner Minshew II",
+          "position": "QB",
+          "nfl_team": "ARI",
+          "roster_id": 8,
+          "team_name": "Stroud Boys",
+          "display_name": "steve4rip"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "nfl_team": "PHI",
+          "roster_id": 8,
+          "team_name": "Stroud Boys",
+          "display_name": "steve4rip"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1423481189599023104",
+      "transaction_week": 8,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793746871904,
+      "adds": [
+        {
+          "player_id": "3161",
+          "name": "Carson Wentz",
+          "position": "QB",
+          "nfl_team": "MIN",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "3321",
+          "name": "Tyreek Hill",
+          "position": "WR",
+          "nfl_team": null,
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
       "draft_picks": []
     },
     {
