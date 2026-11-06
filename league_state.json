@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:50:43.761887+00:00",
+  "generated_at": "2026-11-06T15:01:18.250420+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 9,
@@ -911,12 +911,6 @@
           "nfl_team": "TB"
         },
         {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "nfl_team": "LAR"
-        },
-        {
           "player_id": "3294",
           "name": "Dak Prescott",
           "position": "QB",
@@ -987,6 +981,12 @@
           "name": "Jahmyr Gibbs",
           "position": "RB",
           "nfl_team": "DET"
+        },
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "nfl_team": "NO"
         }
       ],
       "starters": [
@@ -2211,6 +2211,36 @@
           "roster_id": 2,
           "team_name": "To Infinity and Bijan!",
           "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1424431332750016512",
+      "transaction_week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793973403683,
+      "adds": [
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "nfl_team": "NO",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "nfl_team": "LAR",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
         }
       ],
       "draft_picks": []
