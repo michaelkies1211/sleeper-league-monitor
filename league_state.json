@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:48:24.702825+00:00",
+  "generated_at": "2026-11-10T23:17:52.191990+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 10,
@@ -38,7 +38,7 @@
           "player_id": "1166",
           "name": "Kirk Cousins",
           "position": "QB",
-          "nfl_team": "LV"
+          "nfl_team": "MIN"
         },
         {
           "player_id": "11783",
@@ -482,7 +482,7 @@
           "player_id": "9500",
           "name": "Josh Downs",
           "position": "WR",
-          "nfl_team": "IND"
+          "nfl_team": "KC"
         },
         {
           "player_id": "9754",
@@ -496,7 +496,7 @@
         "6130",
         "8132",
         "11610",
-        "11624",
+        "9754",
         "9500",
         "10236",
         "12512",
@@ -1061,7 +1061,7 @@
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
-          "nfl_team": "IND"
+          "nfl_team": "SF"
         },
         {
           "player_id": "4177",
@@ -1771,7 +1771,7 @@
           "player_id": "9757",
           "name": "Kendre Miller",
           "position": "RB",
-          "nfl_team": null,
+          "nfl_team": "DAL",
           "roster_id": 7,
           "team_name": "My Bench is Better",
           "display_name": "jerryweitzman"
@@ -1911,7 +1911,7 @@
           "player_id": "9757",
           "name": "Kendre Miller",
           "position": "RB",
-          "nfl_team": null,
+          "nfl_team": "DAL",
           "roster_id": 6,
           "team_name": "PW crush dyn",
           "display_name": "tpodesta"
@@ -1930,7 +1930,7 @@
           "player_id": "9757",
           "name": "Kendre Miller",
           "position": "RB",
-          "nfl_team": null,
+          "nfl_team": "DAL",
           "roster_id": 6,
           "team_name": "PW crush dyn",
           "display_name": "tpodesta"
