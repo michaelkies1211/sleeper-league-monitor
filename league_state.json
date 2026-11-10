@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T09:47:03.193343+00:00",
+  "generated_at": "2026-11-10T17:48:24.702825+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 10,
@@ -156,15 +156,15 @@
         }
       ],
       "starters": [
-        "4984",
+        "11565",
         "6813",
         "8151",
         "8144",
-        "11783",
+        "11646",
         "11632",
-        "12518",
-        "12474",
-        "1166"
+        "8131",
+        "5967",
+        "4984"
       ],
       "reserve": [
         "10222",
@@ -260,12 +260,6 @@
           "nfl_team": "SF"
         },
         {
-          "player_id": "3161",
-          "name": "Carson Wentz",
-          "position": "QB",
-          "nfl_team": "MIN"
-        },
-        {
           "player_id": "3198",
           "name": "Derrick Henry",
           "position": "RB",
@@ -330,12 +324,12 @@
         "11566",
         "3198",
         "9509",
-        "9493",
+        "8146",
         "13276",
         "10213",
         "11604",
-        "5850",
-        "3161"
+        "11576",
+        "3257"
       ],
       "reserve": [
         "11638",
@@ -828,7 +822,7 @@
         "9997",
         "9487",
         "4217",
-        "4866",
+        "9502",
         "9228"
       ],
       "reserve": [
@@ -1505,12 +1499,12 @@
       "starters": [
         "11564",
         "4034",
-        "11584",
+        "12495",
         "7564",
         "7547",
-        "10232",
+        "11637",
         "9484",
-        "7611",
+        "8136",
         "6804"
       ],
       "reserve": [
@@ -1838,6 +1832,26 @@
           "name": "Konata Mumpfield",
           "position": "WR",
           "nfl_team": "LAR",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1425914864584359936",
+      "transaction_week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794327105236,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "3161",
+          "name": "Carson Wentz",
+          "position": "QB",
+          "nfl_team": "MIN",
           "roster_id": 2,
           "team_name": "To Infinity and Bijan!",
           "display_name": "michaelkies"
