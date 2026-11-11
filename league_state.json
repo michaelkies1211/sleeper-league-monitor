@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:14:14.924315+00:00",
+  "generated_at": "2026-11-11T14:24:38.574014+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 10,
@@ -296,6 +296,12 @@
           "nfl_team": "SF"
         },
         {
+          "player_id": "7562",
+          "name": "Tutu Atwell",
+          "position": "WR",
+          "nfl_team": "LAR"
+        },
+        {
           "player_id": "8146",
           "name": "Garrett Wilson",
           "position": "WR",
@@ -365,10 +371,10 @@
           "nfl_team": "KC"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
+          "player_id": "12504",
+          "name": "Kaleb Johnson",
           "position": "RB",
-          "nfl_team": "LAC"
+          "nfl_team": "GB"
         },
         {
           "player_id": "12507",
@@ -682,6 +688,12 @@
       "team_name": "Beantown Bashers ",
       "players": [
         {
+          "player_id": "11579",
+          "name": "Audric Estime",
+          "position": "RB",
+          "nfl_team": "NO"
+        },
+        {
           "player_id": "11603",
           "name": "AJ Barner",
           "position": "TE",
@@ -776,12 +788,6 @@
           "name": "Bryce Young",
           "position": "QB",
           "nfl_team": "CAR"
-        },
-        {
-          "player_id": "9230",
-          "name": "Tanner McKee",
-          "position": "QB",
-          "nfl_team": "PHI"
         },
         {
           "player_id": "9482",
@@ -917,12 +923,6 @@
           "nfl_team": "DAL"
         },
         {
-          "player_id": "4039",
-          "name": "Cooper Kupp",
-          "position": "WR",
-          "nfl_team": "SEA"
-        },
-        {
           "player_id": "4199",
           "name": "Aaron Jones Sr.",
           "position": "RB",
@@ -945,6 +945,12 @@
           "name": "DK Metcalf",
           "position": "WR",
           "nfl_team": "PIT"
+        },
+        {
+          "player_id": "5854",
+          "name": "Drew Lock",
+          "position": "QB",
+          "nfl_team": "SEA"
         },
         {
           "player_id": "7002",
@@ -1412,6 +1418,12 @@
           "nfl_team": "NYG"
         },
         {
+          "player_id": "12634",
+          "name": "Jordan Watkins",
+          "position": "WR",
+          "nfl_team": "SF"
+        },
+        {
           "player_id": "13268",
           "name": "Elijah Sarratt",
           "position": "WR",
@@ -1482,12 +1494,6 @@
           "name": "Rachaad White",
           "position": "RB",
           "nfl_team": "WAS"
-        },
-        {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "nfl_team": "SEA"
         },
         {
           "player_id": "9484",
@@ -1840,6 +1846,126 @@
       "draft_picks": []
     },
     {
+      "transaction_id": "1426127613453156352",
+      "transaction_week": 9,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794377828519,
+      "adds": [
+        {
+          "player_id": "11579",
+          "name": "Audric Estime",
+          "position": "RB",
+          "nfl_team": "NO",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9230",
+          "name": "Tanner McKee",
+          "position": "QB",
+          "nfl_team": "PHI",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1426052955169124352",
+      "transaction_week": 9,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794360028596,
+      "adds": [
+        {
+          "player_id": "12634",
+          "name": "Jordan Watkins",
+          "position": "WR",
+          "nfl_team": "SF",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
+          "position": "WR",
+          "nfl_team": "SEA",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1426044849408188416",
+      "transaction_week": 9,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794358096033,
+      "adds": [
+        {
+          "player_id": "5854",
+          "name": "Drew Lock",
+          "position": "QB",
+          "nfl_team": "SEA",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "nfl_team": "SEA",
+          "roster_id": 6,
+          "team_name": "PW crush dyn",
+          "display_name": "tpodesta"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1425942352375058432",
+      "transaction_week": 9,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794333658835,
+      "adds": [
+        {
+          "player_id": "12504",
+          "name": "Kaleb Johnson",
+          "position": "RB",
+          "nfl_team": "GB",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "nfl_team": "LAC",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
       "transaction_id": "1425914864584359936",
       "transaction_week": 9,
       "type": "free_agent",
@@ -2024,6 +2150,26 @@
           "roster_id": 3,
           "team_name": "Still under Construction",
           "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1426234647657852928",
+      "transaction_week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794403347462,
+      "adds": [
+        {
+          "player_id": "7562",
+          "name": "Tutu Atwell",
+          "position": "WR",
+          "nfl_team": "LAR",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
         }
       ],
       "drops": [],
