@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:24:38.574014+00:00",
+  "generated_at": "2026-11-11T21:55:53.543345+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 10,
@@ -163,7 +163,7 @@
         "11646",
         "11632",
         "12518",
-        "5967",
+        "9753",
         "4984"
       ],
       "reserve": [
@@ -248,6 +248,12 @@
           "nfl_team": "CLE"
         },
         {
+          "player_id": "13421",
+          "name": "Eli Raridon",
+          "position": "TE",
+          "nfl_team": "NE"
+        },
+        {
           "player_id": "13424",
           "name": "Seth McGowan",
           "position": "RB",
@@ -296,12 +302,6 @@
           "nfl_team": "SF"
         },
         {
-          "player_id": "7562",
-          "name": "Tutu Atwell",
-          "position": "WR",
-          "nfl_team": "LAR"
-        },
-        {
           "player_id": "8146",
           "name": "Garrett Wilson",
           "position": "WR",
@@ -334,7 +334,7 @@
         "13276",
         "10213",
         "11604",
-        "11576",
+        "13421",
         "3257"
       ],
       "reserve": [
@@ -2153,6 +2153,36 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1426289925677912064",
+      "transaction_week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794416526769,
+      "adds": [
+        {
+          "player_id": "13421",
+          "name": "Eli Raridon",
+          "position": "TE",
+          "nfl_team": "NE",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7562",
+          "name": "Tutu Atwell",
+          "position": "WR",
+          "nfl_team": "LAR",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
       "draft_picks": []
     },
     {
