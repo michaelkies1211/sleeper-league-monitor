@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:03:28.533561+00:00",
+  "generated_at": "2026-11-12T18:54:04.049868+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 10,
@@ -162,7 +162,7 @@
         "8144",
         "11646",
         "11632",
-        "8131",
+        "12518",
         "9753",
         "4984"
       ],
@@ -997,8 +997,8 @@
         "8134",
         "5846",
         "7002",
-        "4199",
-        "12491"
+        "12491",
+        "5854"
       ],
       "reserve": [
         "11583",
@@ -1180,12 +1180,6 @@
       "team_name": "Stroud Boys",
       "players": [
         {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
-          "position": "RB",
-          "nfl_team": "SEA"
-        },
-        {
           "player_id": "11559",
           "name": "Michael Penix Jr.",
           "position": "QB",
@@ -1216,6 +1210,12 @@
           "nfl_team": "LAC"
         },
         {
+          "player_id": "12494",
+          "name": "Kyle McCord",
+          "position": "QB",
+          "nfl_team": "MIA"
+        },
+        {
           "player_id": "12517",
           "name": "Colston Loveland",
           "position": "TE",
@@ -1232,6 +1232,12 @@
           "name": "Ashton Jeanty",
           "position": "RB",
           "nfl_team": "LV"
+        },
+        {
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "nfl_team": "LAR"
         },
         {
           "player_id": "13275",
@@ -1262,12 +1268,6 @@
           "name": "Travis Kelce",
           "position": "TE",
           "nfl_team": "KC"
-        },
-        {
-          "player_id": "6011",
-          "name": "Gardner Minshew II",
-          "position": "QB",
-          "nfl_team": "ARI"
         },
         {
           "player_id": "6801",
@@ -1325,14 +1325,14 @@
         }
       ],
       "starters": [
-        "11560",
+        "9758",
         "9224",
-        "12527",
-        "11620",
+        "11586",
+        "9756",
         "6801",
         "8167",
-        "12517",
-        "11586",
+        "1466",
+        "12527",
         "11559"
       ],
       "reserve": [
@@ -2146,6 +2146,76 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1426602293108707328",
+      "transaction_week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794491000967,
+      "adds": [
+        {
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "nfl_team": "LAR",
+          "roster_id": 8,
+          "team_name": "Stroud Boys",
+          "display_name": "steve4rip"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1426602235961303040",
+      "transaction_week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794490987342,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "nfl_team": "SEA",
+          "roster_id": 8,
+          "team_name": "Stroud Boys",
+          "display_name": "steve4rip"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1426601095462912000",
+      "transaction_week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794490715427,
+      "adds": [
+        {
+          "player_id": "12494",
+          "name": "Kyle McCord",
+          "position": "QB",
+          "nfl_team": "MIA",
+          "roster_id": 8,
+          "team_name": "Stroud Boys",
+          "display_name": "steve4rip"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6011",
+          "name": "Gardner Minshew II",
+          "position": "QB",
+          "nfl_team": "ARI",
+          "roster_id": 8,
+          "team_name": "Stroud Boys",
+          "display_name": "steve4rip"
+        }
+      ],
       "draft_picks": []
     },
     {
