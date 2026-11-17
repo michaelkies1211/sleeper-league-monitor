@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:51:31.883986+00:00",
+  "generated_at": "2026-11-17T13:22:14.902772+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
-  "current_week": 10,
+  "current_week": 11,
   "rosters": [
     {
       "roster_id": 1,
@@ -712,12 +712,6 @@
           "nfl_team": "SEA"
         },
         {
-          "player_id": "12542",
-          "name": "Efton Chism III",
-          "position": "WR",
-          "nfl_team": "NE"
-        },
-        {
           "player_id": "13294",
           "name": "Makai Lemon",
           "position": "WR",
@@ -822,13 +816,13 @@
       ],
       "starters": [
         "6770",
-        "11579",
-        "8150",
+        "6790",
+        "4866",
         "6786",
         "9997",
         "9487",
         "4217",
-        "9502",
+        "8137",
         "9228"
       ],
       "reserve": [],
@@ -1687,156 +1681,6 @@
   ],
   "transactions": [
     {
-      "transaction_id": "1423564454477463552",
-      "transaction_week": 8,
-      "type": "waiver",
-      "status": "complete",
-      "created": 1793766723797,
-      "adds": [
-        {
-          "player_id": "6011",
-          "name": "Gardner Minshew II",
-          "position": "QB",
-          "nfl_team": "ARI",
-          "roster_id": 8,
-          "team_name": "Stroud Boys",
-          "display_name": "steve4rip"
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "nfl_team": "PHI",
-          "roster_id": 8,
-          "team_name": "Stroud Boys",
-          "display_name": "steve4rip"
-        }
-      ],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1423481189599023104",
-      "transaction_week": 8,
-      "type": "waiver",
-      "status": "complete",
-      "created": 1793746871904,
-      "adds": [
-        {
-          "player_id": "3161",
-          "name": "Carson Wentz",
-          "position": "QB",
-          "nfl_team": "MIN",
-          "roster_id": 2,
-          "team_name": "To Infinity and Bijan!",
-          "display_name": "michaelkies"
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "3321",
-          "name": "Tyreek Hill",
-          "position": "WR",
-          "nfl_team": null,
-          "roster_id": 2,
-          "team_name": "To Infinity and Bijan!",
-          "display_name": "michaelkies"
-        }
-      ],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1422661434747142144",
-      "transaction_week": 8,
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793551427117,
-      "adds": [
-        {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
-          "position": "WR",
-          "nfl_team": "TEN",
-          "roster_id": 7,
-          "team_name": "My Bench is Better",
-          "display_name": "jerryweitzman"
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "nfl_team": "DAL",
-          "roster_id": 7,
-          "team_name": "My Bench is Better",
-          "display_name": "jerryweitzman"
-        }
-      ],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421152789626621952",
-      "transaction_week": 8,
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793191738090,
-      "adds": [
-        {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "nfl_team": "MIN",
-          "roster_id": 7,
-          "team_name": "My Bench is Better",
-          "display_name": "jerryweitzman"
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
-          "nfl_team": "PIT",
-          "roster_id": 7,
-          "team_name": "My Bench is Better",
-          "display_name": "jerryweitzman"
-        }
-      ],
-      "draft_picks": []
-    },
-    {
-      "transaction_id": "1421149187067699200",
-      "transaction_week": 8,
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1793190879174,
-      "adds": [
-        {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "position": "TE",
-          "nfl_team": "JAX",
-          "roster_id": 2,
-          "team_name": "To Infinity and Bijan!",
-          "display_name": "michaelkies"
-        }
-      ],
-      "drops": [
-        {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
-          "position": "WR",
-          "nfl_team": "LAR",
-          "roster_id": 2,
-          "team_name": "To Infinity and Bijan!",
-          "display_name": "michaelkies"
-        }
-      ],
-      "draft_picks": []
-    },
-    {
       "transaction_id": "1426127613453156352",
       "transaction_week": 9,
       "type": "waiver",
@@ -2144,6 +1988,26 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1428325579236610048",
+      "transaction_week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794901864397,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12542",
+          "name": "Efton Chism III",
+          "position": "WR",
+          "nfl_team": "NE",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
       "draft_picks": []
     },
     {
