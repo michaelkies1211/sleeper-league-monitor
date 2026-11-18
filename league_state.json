@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:17:31.284642+00:00",
+  "generated_at": "2026-11-18T13:56:11.492343+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 11,
@@ -371,6 +371,12 @@
           "nfl_team": "KC"
         },
         {
+          "player_id": "12492",
+          "name": "Pat Bryant",
+          "position": "WR",
+          "nfl_team": "DEN"
+        },
+        {
           "player_id": "12504",
           "name": "Kaleb Johnson",
           "position": "RB",
@@ -459,12 +465,6 @@
           "name": "Daniel Jones",
           "position": "QB",
           "nfl_team": "IND"
-        },
-        {
-          "player_id": "6130",
-          "name": "Devin Singletary",
-          "position": "RB",
-          "nfl_team": "NYG"
         },
         {
           "player_id": "6797",
@@ -1152,7 +1152,7 @@
         "7594",
         "7569",
         "5872",
-        "5947",
+        "12499",
         "5844",
         "12490",
         "12545"
@@ -1355,6 +1355,12 @@
           "nfl_team": "ARI"
         },
         {
+          "player_id": "11557",
+          "name": "Joe Milton",
+          "position": "QB",
+          "nfl_team": "PHI"
+        },
+        {
           "player_id": "11564",
           "name": "Drake Maye",
           "position": "QB",
@@ -1401,12 +1407,6 @@
           "name": "Jaxson Dart",
           "position": "QB",
           "nfl_team": "NYG"
-        },
-        {
-          "player_id": "12634",
-          "name": "Jordan Watkins",
-          "position": "WR",
-          "nfl_team": "SF"
         },
         {
           "player_id": "13268",
@@ -1988,6 +1988,76 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1428677570290810880",
+      "transaction_week": 10,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794985785605,
+      "adds": [
+        {
+          "player_id": "12492",
+          "name": "Pat Bryant",
+          "position": "WR",
+          "nfl_team": "DEN",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1428677166953922560",
+      "transaction_week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794985689441,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "nfl_team": "NYG",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1428578757081321472",
+      "transaction_week": 10,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794962226700,
+      "adds": [
+        {
+          "player_id": "11557",
+          "name": "Joe Milton",
+          "position": "QB",
+          "nfl_team": "PHI",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12634",
+          "name": "Jordan Watkins",
+          "position": "WR",
+          "nfl_team": "SF",
+          "roster_id": 9,
+          "team_name": "Skins",
+          "display_name": "pauljacobson97"
+        }
+      ],
       "draft_picks": []
     },
     {
