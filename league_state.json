@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:54:56.510954+00:00",
+  "generated_at": "2026-11-19T03:24:35.462695+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 11,
@@ -688,10 +688,10 @@
       "team_name": "Beantown Bashers ",
       "players": [
         {
-          "player_id": "11579",
-          "name": "Audric Estime",
-          "position": "RB",
-          "nfl_team": "NO"
+          "player_id": "10218",
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "nfl_team": "HOU"
         },
         {
           "player_id": "11603",
@@ -2218,6 +2218,36 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1428933837055868928",
+      "transaction_week": 11,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795046884362,
+      "adds": [
+        {
+          "player_id": "10218",
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "nfl_team": "HOU",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11579",
+          "name": "Audric Estime",
+          "position": "RB",
+          "nfl_team": "NO",
+          "roster_id": 5,
+          "team_name": "Beantown Bashers ",
+          "display_name": "BeantownBasher"
+        }
+      ],
       "draft_picks": []
     },
     {
