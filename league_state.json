@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:47:06.853082+00:00",
+  "generated_at": "2026-11-21T17:29:38.826492+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 11,
@@ -464,7 +464,7 @@
           "player_id": "5870",
           "name": "Daniel Jones",
           "position": "QB",
-          "nfl_team": "IND"
+          "nfl_team": null
         },
         {
           "player_id": "6797",
