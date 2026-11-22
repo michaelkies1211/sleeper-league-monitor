@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T23:13:54.437108+00:00",
+  "generated_at": "2026-11-22T03:11:07.450105+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 11,
@@ -602,12 +602,6 @@
           "nfl_team": "CLE"
         },
         {
-          "player_id": "4137",
-          "name": "James Conner",
-          "position": "RB",
-          "nfl_team": "ARI"
-        },
-        {
           "player_id": "6819",
           "name": "Michael Pittman Jr.",
           "position": "WR",
@@ -667,19 +661,17 @@
         "8122",
         "8228",
         "10229",
-        "8148",
+        "13281",
         "11635",
         "10859",
         "7525",
-        "13272"
+        "8148"
       ],
       "reserve": [
-        "4137",
+        "6904",
         "9226"
       ],
-      "taxi": [
-        "13281"
-      ]
+      "taxi": []
     },
     {
       "roster_id": 5,
@@ -2218,6 +2210,26 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1430040062250196992",
+      "transaction_week": 11,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795310629002,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4137",
+          "name": "James Conner",
+          "position": "RB",
+          "nfl_team": "ARI",
+          "roster_id": 4,
+          "team_name": "MEDIC! ",
+          "display_name": "robshanahan"
+        }
+      ],
       "draft_picks": []
     },
     {
