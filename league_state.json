@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:20:20.726506+00:00",
+  "generated_at": "2026-11-22T19:36:22.341482+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 11,
@@ -333,7 +333,7 @@
         "8146",
         "10213",
         "12509",
-        "11604",
+        "9480",
         "2216",
         "3257"
       ],
@@ -437,12 +437,6 @@
           "nfl_team": "MIA"
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "nfl_team": "NO"
-        },
-        {
           "player_id": "4037",
           "name": "Chris Godwin Jr.",
           "position": "WR",
@@ -453,6 +447,12 @@
           "name": "Patrick Mahomes",
           "position": "QB",
           "nfl_team": "KC"
+        },
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "nfl_team": "CIN"
         },
         {
           "player_id": "5045",
@@ -504,7 +504,7 @@
         "11610",
         "12514",
         "9500",
-        "10236",
+        "4993",
         "12492",
         "4046"
       ],
@@ -2210,6 +2210,36 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1430288130228903936",
+      "transaction_week": 11,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795369773016,
+      "adds": [
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "nfl_team": "CIN",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "nfl_team": "NO",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
       "draft_picks": []
     },
     {
