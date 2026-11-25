@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:25:01.597311+00:00",
+  "generated_at": "2026-11-25T12:50:57.647914+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 12,
@@ -371,6 +371,12 @@
           "nfl_team": "KC"
         },
         {
+          "player_id": "12483",
+          "name": "Jack Bech",
+          "position": "WR",
+          "nfl_team": "LV"
+        },
+        {
           "player_id": "12492",
           "name": "Pat Bryant",
           "position": "WR",
@@ -459,12 +465,6 @@
           "name": "Courtland Sutton",
           "position": "WR",
           "nfl_team": "DEN"
-        },
-        {
-          "player_id": "5870",
-          "name": "Daniel Jones",
-          "position": "QB",
-          "nfl_team": null
         },
         {
           "player_id": "6797",
@@ -808,7 +808,7 @@
       ],
       "starters": [
         "6770",
-        "6790",
+        "8150",
         "4866",
         "6786",
         "9997",
@@ -1900,6 +1900,36 @@
         }
       ],
       "drops": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1430872215687020544",
+      "transaction_week": 11,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795509029841,
+      "adds": [
+        {
+          "player_id": "12483",
+          "name": "Jack Bech",
+          "position": "WR",
+          "nfl_team": "LV",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5870",
+          "name": "Daniel Jones",
+          "position": "QB",
+          "nfl_team": null,
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
       "draft_picks": []
     },
     {
