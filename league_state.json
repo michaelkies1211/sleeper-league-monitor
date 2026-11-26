@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:11:57.188009+00:00",
+  "generated_at": "2026-11-26T23:50:19.200197+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 12,
@@ -505,7 +505,7 @@
         "12514",
         "9500",
         "10236",
-        "12492",
+        "8132",
         "4046"
       ],
       "reserve": [
@@ -797,7 +797,7 @@
           "player_id": "96",
           "name": "Aaron Rodgers",
           "position": "QB",
-          "nfl_team": "PIT"
+          "nfl_team": null
         },
         {
           "player_id": "9997",
