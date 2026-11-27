@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:27:09.346332+00:00",
+  "generated_at": "2026-11-27T18:57:06.578628+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 12,
@@ -230,12 +230,6 @@
           "nfl_team": "LAR"
         },
         {
-          "player_id": "12509",
-          "name": "Tre' Harris",
-          "position": "WR",
-          "nfl_team": "LAC"
-        },
-        {
           "player_id": "13276",
           "name": "Omar Cooper Jr.",
           "position": "WR",
@@ -246,6 +240,12 @@
           "name": "Taylen Green",
           "position": "QB",
           "nfl_team": "CLE"
+        },
+        {
+          "player_id": "13394",
+          "name": "Josh Cameron",
+          "position": "WR",
+          "nfl_team": "JAX"
         },
         {
           "player_id": "13424",
@@ -332,7 +332,7 @@
         "9509",
         "8146",
         "2216",
-        "13276",
+        "13394",
         "11604",
         "4147",
         "11566"
@@ -1608,12 +1608,6 @@
           "nfl_team": "MIN"
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
-          "nfl_team": "DEN"
-        },
-        {
           "player_id": "7588",
           "name": "Javonte Williams",
           "position": "RB",
@@ -1651,7 +1645,7 @@
         }
       ],
       "starters": [
-        "8183",
+        "11563",
         "8155",
         "7588",
         "8112",
@@ -1659,11 +1653,10 @@
         "9488",
         "8130",
         "6794",
-        "11563"
+        "8183"
       ],
       "reserve": [
-        "11618",
-        "12533"
+        "11618"
       ],
       "taxi": [
         "13274",
@@ -2035,6 +2028,56 @@
           "name": "Eli Raridon",
           "position": "TE",
           "nfl_team": "NE",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1432105207692546048",
+      "transaction_week": 12,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795802998043,
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "nfl_team": "DEN",
+          "roster_id": 10,
+          "team_name": "Seal Team Nix",
+          "display_name": "efritz0"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1432087303253143552",
+      "transaction_week": 12,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795798729293,
+      "adds": [
+        {
+          "player_id": "13394",
+          "name": "Josh Cameron",
+          "position": "WR",
+          "nfl_team": "JAX",
+          "roster_id": 2,
+          "team_name": "To Infinity and Bijan!",
+          "display_name": "michaelkies"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12509",
+          "name": "Tre' Harris",
+          "position": "WR",
+          "nfl_team": "LAC",
           "roster_id": 2,
           "team_name": "To Infinity and Bijan!",
           "display_name": "michaelkies"
