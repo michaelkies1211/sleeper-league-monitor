@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:57:06.578628+00:00",
+  "generated_at": "2026-11-28T01:57:44.740321+00:00",
   "league_id": "1314660185330954240",
   "league_name": "Ladera Ranch Dynasty League",
   "current_week": 12,
@@ -407,6 +407,12 @@
           "nfl_team": "TB"
         },
         {
+          "player_id": "12773",
+          "name": "DJ Uiagalelei",
+          "position": "QB",
+          "nfl_team": "LAC"
+        },
+        {
           "player_id": "13287",
           "name": "Jeremiyah Love",
           "position": "RB",
@@ -455,12 +461,6 @@
           "nfl_team": "KC"
         },
         {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "nfl_team": "CIN"
-        },
-        {
           "player_id": "5045",
           "name": "Courtland Sutton",
           "position": "WR",
@@ -498,7 +498,7 @@
         }
       ],
       "starters": [
-        "6797",
+        "12773",
         "12507",
         "12512",
         "11610",
@@ -1653,10 +1653,11 @@
         "9488",
         "8130",
         "6794",
-        "8183"
+        "1373"
       ],
       "reserve": [
-        "11618"
+        "11618",
+        "8183"
       ],
       "taxi": [
         "13274",
@@ -2031,6 +2032,36 @@
           "roster_id": 2,
           "team_name": "To Infinity and Bijan!",
           "display_name": "michaelkies"
+        }
+      ],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1432182760352530432",
+      "transaction_week": 12,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795821488039,
+      "adds": [
+        {
+          "player_id": "12773",
+          "name": "DJ Uiagalelei",
+          "position": "QB",
+          "nfl_team": "LAC",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "nfl_team": "CIN",
+          "roster_id": 3,
+          "team_name": "Still under Construction",
+          "display_name": "Zabsocal"
         }
       ],
       "draft_picks": []
